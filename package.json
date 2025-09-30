@@ -1,0 +1,26 @@
+{
+  "name": "LuciferRTXrpcV5",
+  "version": "1.0.0",
+  "description": "▪︎ LUCIFER RPC ENGINE v1.0 — Self-Managed Discord Rich Presence System",
+  "main": "boot.js",
+  "type": "module",
+  "scripts": {
+    "start": "node boot.js",
+    "obfuscate": "javascript-obfuscator boot.js --output boot.obf.js --compact true --self-defending true --control-flow-flattening true --control-flow-flattening-threshold 1 --string-array true --string-array-encoding base64 --string-array-threshold 1 --debug-protection true --disable-console-output true"
+  },
+  "keywords": [
+    "discord",
+    "richpresence",
+    "selfbot",
+    "lucifer",
+    "rpc-engine",
+    "obfuscation"
+  ],
+  "author": "Lucifer",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "discord.js-selfbot-v13": "^3.7.0",
+    "figlet": "^1.8.2"
+  }
+}
