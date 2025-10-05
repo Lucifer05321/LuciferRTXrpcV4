@@ -1,9 +1,14 @@
-
 🚀 Lucifer RPC Engine v4.1
 
 <div align="center">
 
-(https://cdn.jsdelivr.net/gh/Lucifer05321/Media_host_6xml/Cloud/RPC/LuciferRTXRPCv4bg.gif)
+![Banner](https://cdn.jsdelivr.net/gh/Lucifer05321/Media_host_6xml/Cloud/RPC/LuciferRTXRPCv4bg.gif)
+
+<br>
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Welcome+to+Lucifer+Domains;Professional+Discord+RPC+Engine+%F0%9F%9A%80" width="90%" />
+</div>
 
 <br>
 
@@ -24,17 +29,35 @@
 
 <br>
 
-**Professional Discord Rich Presence Engine with Auto-Renewal & Dual Control**
+<pre>
+    💼 Professional Discord Rich Presence Engine
+    ⚡ Auto-Renewal & Dual Control System
+    🔧 Fully Customizable RPC Settings
+    🛡️ Secure & Encrypted Configuration
+    🌐 Multi-Platform Support
+    📱 24/7 Operation Ready
+</pre>
 
-</div>
-
----
+<br>
 
 <div align="center">
 
 ### 🔥 Quick Links
 
 <kbd>📥 SETUP GUIDE</kbd> • <kbd>🎮 COMMANDS</kbd> • <kbd>🔐 GET TOKEN</kbd> • <kbd>🌟 FEATURES</kbd> • <kbd>🆘 SUPPORT</kbd>
+
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60" />
+
+<br>
+
+[![](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://your-website.com)
+[![](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/your-server)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
+[![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lucifer05321)
 
 </div>
 
@@ -465,17 +488,6 @@ pm2 restart lucifer-rpc # Restart
 pm2 stop lucifer-rpc    # Stop
 pm2 logs lucifer-rpc    # View logs
 ```
-
-</details>
-
-<details>
-<summary><kbd>📞 Contact & Links</kbd></summary>
-
-<div align="center">
-
-<kbd>🌐 Website</kbd> • <kbd>📷 Instagram</kbd> • <kbd>💻 GitHub</kbd> • <kbd>🎮 Discord</kbd>
-
-</div>
 
 </details>
 
