@@ -2,20 +2,7 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   ██╗     ██╗   ██╗ ██████╗██╗███████╗███████╗██████╗               ║
-║   ██║     ██║   ██║██╔════╝██║██╔════╝██╔════╝██╔══██╗              ║
-║   ██║     ██║   ██║██║     ██║█████╗  █████╗  ██████╔╝              ║
-║   ██║     ██║   ██║██║     ██║██╔══╝  ██╔══╝  ██╔══██╗              ║
-║   ███████╗╚██████╔╝╚██████╗██║██║     ███████╗██║  ██║              ║
-║   ╚══════╝ ╚═════╝  ╚═════╝╚═╝╚═╝     ╚══════╝╚═╝  ╚═╝              ║
-║                                                                      ║
-║              ▪︎ LUCIFER RPC ENGINE v4.1 - PROFESSIONAL MODE         ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+https://cdn.jsdelivr.net/gh/Lucifer05321/Media_host_6xml/Cloud/RPC/LuciferRTXRPCv4bg.gif
 
 <br>
 
@@ -23,7 +10,6 @@
 <img src="https://img.shields.io/badge/Node.js->=18.0-green?style=for-the-badge&logo=nodedotjs" />
 <img src="https://img.shields.io/badge/Status-ACTIVE-brightgreen?style=for-the-badge&logo=rocket" />
 <img src="https://img.shields.io/badge/Platform-Windows|Mac|Linux|Termux-orange?style=for-the-badge&logo=windows" />
-<img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge&logo=book" />
 
 <br>
 
@@ -35,48 +21,119 @@
 
 Professional Discord Rich Presence Engine with Auto-Renewal & Dual Control
 
-<br>
+</div>
 
 🔥 Quick Links
 
-<img src="https://img.shields.io/badge/SETUP_GUIDE-Click_Here-8A2BE2?style=for-the-badge&logo=download" />
-<img src="https://img.shields.io/badge/COMMANDS-All_Commands-00FF00?style=for-the-badge&logo=gamepad" />
-<img src="https://img.shields.io/badge/FEATURES-See_All-FF69B4?style=for-the-badge&logo=star" />
-<img src="https://img.shields.io/badge/SUPPORT-Get_Help-FF0000?style=for-the-badge&logo=heart" />
+<kbd>📥 SETUP GUIDE</kbd>
+<kbd>🎮 COMMANDS</kbd>
+<kbd>🔐 GET TOKEN</kbd>
+<kbd>🌟 FEATURES</kbd>
+<kbd>🆘 SUPPORT</kbd>
 
-</div>
+---
 
-📥 SETUP GUIDE
+🚀 Quick Start
 
-🚀 Universal One-Command Setup
+One-Command Setup
 
 ```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git && cd LuciferRTXrpcV4 && npm install && npm start
 ```
 
-🔽 Step-by-Step Setup
+Step-by-Step Setup
 
 ```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
-```
-
-```bash
 cd LuciferRTXrpcV4
-```
-
-```bash
 npm install
-```
-
-```bash
 npm start
 ```
 
 ---
 
-🖥️ Platform Specific Setup
+🔐 Get Discord Token
 
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" /> Windows Setup
+<details>
+<summary><kbd>⚠️ TOKEN GUIDE (Important)</kbd></summary>
+
+Step 1: Open Discord Web
+
+Go to Discord Web in your browser
+
+Step 2: Open Developer Console
+
+· Windows/Linux: Press Ctrl + Shift + I
+· macOS: Press Cmd + Option + I
+· Then click on Console tab
+
+Step 3: Unlock Console (If Blocked)
+
+If Discord blocks the console, paste this code first:
+
+```javascript
+window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {
+  for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {
+    if (m.default && m.default.getToken !== undefined) {
+      return console.log(m.default.getToken());
+    }
+    if (m.getToken !== undefined) {
+      return console.log(m.getToken());
+    }
+  }
+}]);
+```
+
+Step 4: Get Token
+
+After unlocking, paste this code:
+
+```javascript
+function getUserToken() {
+    let iframe = document.createElement('iframe');
+    document.body.appendChild(iframe);
+    let localStorage = iframe.contentWindow.localStorage;
+
+    if (!localStorage) {
+        console.error('◇ Token storage not accessible.');
+        return null;
+    }
+
+    let token = localStorage.getItem('token');
+
+    if (token) {
+        console.log('◇ User Token Retrieved:');
+        console.log(token);
+        return token;
+    } else {
+        console.error('◇ Token not found in localStorage.');
+        return null;
+    }
+}
+
+getUserToken();
+```
+
+Step 5: Copy Token
+
+· Copy the token that appears in console (starts with MT)
+· Never share this token - it provides full account access
+
+Alternative Method (Developer Mode)
+
+```javascript
+// Alternative method if above doesn't work
+(webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()
+```
+
+</details>
+
+---
+
+🖥️ Platform Setup
+
+<details>
+<summary><kbd>🪟 Windows Setup</kbd></summary>
 
 Method 1: Official Installer
 
@@ -118,7 +175,10 @@ npm install
 npm start
 ```
 
-<img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" /> macOS Setup
+</details>
+
+<details>
+<summary><kbd>🍎 macOS Setup</kbd></summary>
 
 Method 1: Homebrew
 
@@ -164,7 +224,10 @@ npm install
 npm start
 ```
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> Linux/Ubuntu Setup
+</details>
+
+<details>
+<summary><kbd>🐧 Linux/Ubuntu Setup</kbd></summary>
 
 ```bash
 sudo apt update && sudo apt upgrade -y
@@ -198,7 +261,10 @@ npm install
 npm start
 ```
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" /> Kali Linux Setup
+</details>
+
+<details>
+<summary><kbd>⚡ Kali Linux Setup</kbd></summary>
 
 ```bash
 sudo apt update && sudo apt full-upgrade -y
@@ -232,7 +298,10 @@ npm install
 npm start
 ```
 
-<img src="https://img.shields.io/badge/Termux-Android-32DE84?style=flat-square&logo=android&logoColor=white" /> Termux (Android) Setup
+</details>
+
+<details>
+<summary><kbd>📱 Termux (Android) Setup</kbd></summary>
 
 ```bash
 pkg update && pkg upgrade -y
@@ -258,7 +327,10 @@ npm install
 npm start
 ```
 
-<img src="https://img.shields.io/badge/Cloud-AWS|GCP|Azure-FF9900?style=flat-square&logo=amazonaws" /> Cloud Platforms Setup
+</details>
+
+<details>
+<summary><kbd>☁️ Cloud Platforms Setup</kbd></summary>
 
 ```bash
 sudo apt update && sudo apt upgrade -y
@@ -292,183 +364,248 @@ npm install
 nohup npm start > output.log 2>&1 &
 ```
 
+</details>
+
 ---
 
-🎮 COMMAND REFERENCE
+🎮 Command Reference
 
-<img src="https://img.shields.io/badge/SYSTEM_MONITORING-3_Commands-blue?style=flat-square" /> System Monitoring
+<details>
+<summary><kbd>📊 System Monitoring Commands</kbd></summary>
+
+status - Complete System Dashboard
+
+Shows: Real-time performance, network metrics, memory usage
 
 ```bash
 status
 ```
 
+ping - Network Latency Check
+
+Shows: Discord connection quality, API response times
+
 ```bash
 ping
 ```
+
+uptime - System Runtime Statistics
+
+Shows: Uptime duration, memory usage, command statistics
 
 ```bash
 uptime
 ```
 
-<img src="https://img.shields.io/badge/CONFIGURATION-4_Commands-green?style=flat-square" /> Configuration Management
+</details>
+
+<details>
+<summary><kbd>⚙️ Configuration Commands</kbd></summary>
+
+config - Configuration Overview
+
+Shows: Current RPC settings and field status
 
 ```bash
 config
 ```
 
+update - Modify RPC Settings
+
+Update Name:
+
 ```bash
 update Name "My Custom RPC"
 ```
+
+Update Status:
 
 ```bash
 update State "Playing Game"
 ```
 
+Update Button:
+
 ```bash
 update button1 '{"label":"Visit","url":"https://example.com"}'
 ```
 
-<img src="https://img.shields.io/badge/ACCESS_CONTROL-3_Commands-red?style=flat-square" /> Access Control
+Change Renewal Time:
+
+```bash
+update renewalTime 6
+```
+
+</details>
+
+<details>
+<summary><kbd>🔐 Access Control Commands</kbd></summary>
+
+access add - Grant User Permissions
 
 ```bash
 access add @username
 ```
 
+access remove - Revoke User Permissions
+
 ```bash
 access remove @username
 ```
+
+access list - View Authorized Users
 
 ```bash
 access list
 ```
 
-<img src="https://img.shields.io/badge/SYSTEM_CONTROL-2_Commands-purple?style=flat-square" /> System Control
+</details>
+
+<details>
+<summary><kbd>🔄 System Control Commands</kbd></summary>
+
+reload - Refresh RPC System
 
 ```bash
 reload
 ```
 
+help - Show All Commands
+
 ```bash
 help
 ```
 
-<img src="https://img.shields.io/badge/SUPPORT_LINKS-4_Commands-orange?style=flat-square" /> Support Links
+</details>
+
+<details>
+<summary><kbd>🌐 Support Commands</kbd></summary>
+
+website - Official Website
 
 ```bash
 website
 ```
 
+instagram - Developer Instagram
+
 ```bash
 instagram
 ```
+
+github - Source Code
 
 ```bash
 github
 ```
 
+discord - Community Server
+
 ```bash
 discord
 ```
 
----
-
-🌟 FEATURES
-
-<img src="https://img.shields.io/badge/Advanced_RPC-Customizable_Presence-8A2BE2?style=flat-square" />
-<img src="https://img.shields.io/badge/Auto_Media_Renewal-Automatic_Updates-00FF00?style=flat-square" />
-<img src="https://img.shields.io/badge/Dual_Interface-Discord_+_Console-FF69B4?style=flat-square" />
-<img src="https://img.shields.io/badge/Secure_Storage-Encrypted_Config-FF0000?style=flat-square" />
-<img src="https://img.shields.io/badge/Multi_User_Access-Grant_Permissions-FFFF00?style=flat-square" />
-<img src="https://img.shields.io/badge/Live_System_Stats-Real_time_Metrics-00FFFF?style=flat-square" />
-<img src="https://img.shields.io/badge/24/7_Operation-Always_Online-00FF00?style=flat-square" />
-<img src="https://img.shields.io/badge/Professional_UI-Clean_Design-8A2BE2?style=flat-square" />
+</details>
 
 ---
 
-🆘 SUPPORT
+🌟 Key Features
 
-<img src="https://img.shields.io/badge/TROUBLESHOOTING-4_Commands-FFA500?style=flat-square" /> Troubleshooting Commands
+· ✅ Advanced RPC - Fully customizable Discord presence
+· ✅ Auto Media Renewal - Automatic image updates every 12 hours
+· ✅ Dual Interface - Control via Discord chat or console
+· ✅ Secure Storage - Encrypted configuration management
+· ✅ Multi-User Access - Grant command permissions to trusted users
+· ✅ Live System Stats - Real-time performance monitoring
+· ✅ 24/7 Operation - Always online with PM2 support
+· ✅ Professional UI - Clean, professional interface
+
+---
+
+🆘 Support
+
+<details>
+<summary><kbd>🔧 Troubleshooting</kbd></summary>
+
+Check Versions
 
 ```bash
 node --version
-```
-
-```bash
 npm --version
 ```
 
-```bash
-rm -rf node_modules && npm install
-```
+Clean Reinstall
 
 ```bash
+rm -rf node_modules
 npm cache clean --force
+npm install
 ```
 
-<img src="https://img.shields.io/badge/24/7_OPERATION-PM2_Setup-00FF00?style=flat-square" /> 24/7 Operation with PM2
+Permission Fix (Linux/Mac)
+
+```bash
+sudo chmod -R 755 .
+sudo chown -R $USER:$USER .
+```
+
+</details>
+
+<details>
+<summary><kbd>🚀 24/7 Operation</kbd></summary>
+
+Install PM2
 
 ```bash
 npm install -g pm2
 ```
 
+Start with PM2
+
 ```bash
 pm2 start npm --name "lucifer-rpc" -- start
 ```
 
-```bash
-pm2 startup
-```
+Auto-Start on Boot
 
 ```bash
+pm2 startup
 pm2 save
 ```
 
-<img src="https://img.shields.io/badge/CONTACT_SUPPORT-Click_Links-0088CC?style=flat-square" /> Contact & Links
+PM2 Management
 
-<img src="https://img.shields.io/badge/Website-lucifer_nukers.netlify.app-blue?style=for-the-badge&logo=google-chrome" />
-<img src="https://img.shields.io/badge/Instagram-@mr_lucifer841-pink?style=for-the-badge&logo=instagram" />
-<img src="https://img.shields.io/badge/GitHub-Lucifer05321-black?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/Discord-Join_Server-7289DA?style=for-the-badge&logo=discord" />
+```bash
+pm2 status              # Check status
+pm2 restart lucifer-rpc # Restart
+pm2 stop lucifer-rpc    # Stop
+pm2 logs lucifer-rpc    # View logs
+```
+
+</details>
+
+<details>
+<summary><kbd>📞 Contact & Links</kbd></summary>
+
+<kbd>🌐 Website</kbd>
+<kbd>📷 Instagram</kbd>
+<kbd>💻 GitHub</kbd>
+<kbd>🎮 Discord</kbd>
+
+</details>
 
 ---
 
 <div align="center">
 
-⚠️ IMPORTANT NOTES
+⚠️ Important Notes
 
-<img src="https://img.shields.io/badge/FIRST_RUN-Enter_Discord_Token-FF0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SECURITY-Never_Share_Token-FFFF00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PLATFORMS-Windows_Mac_Linux_Termux-00FF00?style=for-the-badge" />
+· 🔒 Never share your Discord token - It provides full account access
+· 🚀 First run - Enter token when prompted (starts with "MT")
+· ✅ Platform support - Windows, macOS, Linux, Termux, Cloud
+· 📱 Mobile support - Works on Android via Termux
+· ☁️ Cloud ready - Deploy on AWS, Google Cloud, Azure
 
 Made with ❤️ by Lucifer
 
-<img src="https://img.shields.io/badge/©_2024_Lucifer_RPC-All_Rights_Reserved-8A2BE2?style=for-the-badge" />
-
 </div>
-
----
-
-Main Fixes Applied:
-
-1. Changed from ![alt](url) to <img src="url" /> - This ensures badges render properly on GitHub
-2. Removed special characters from badge text that might cause encoding issues
-3. Simplified badge text - Removed emojis and special symbols that might break rendering
-4. Used direct HTML img tags instead of markdown image syntax
-5. Separate lines for each badge to prevent parsing issues
-6. Clean URL structure without complex encoding
-
-Now all badges should display properly on GitHub! 🎉
-
-If badges still don't show, try this alternative approach:
-
-Alternative Simple Badges (If above doesn't work):
-
-```
-⭐ Version: 4.1 Professional  
-✅ Node.js: >=18.0  
-🟢 Status: ACTIVE  
-🖥️ Platform: Windows/Mac/Linux/Termux  
-📄 License: MIT
-```
-
-But the HTML img tags should work perfectly!
