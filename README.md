@@ -1,41 +1,49 @@
+
+```markdown
 🚀 Lucifer RPC Engine v4.1
 
 <div align="center">
 
-https://cdn.jsdelivr.net/gh/Lucifer05321/Media_host_6xml/Cloud/RPC/LuciferRTXRPCv4bg.gif
+![Banner](https://cdn.jsdelivr.net/gh/Lucifer05321/Media_host_6xml/Cloud/RPC/LuciferRTXRPCv4bg.gif)
 
 <br>
 
+<div align="center">
 <img src="https://img.shields.io/badge/Version-4.1_Professional-purple?style=for-the-badge&logo=azurepipelines" />
 <img src="https://img.shields.io/badge/Node.js->=18.0-green?style=for-the-badge&logo=nodedotjs" />
 <img src="https://img.shields.io/badge/Status-ACTIVE-brightgreen?style=for-the-badge&logo=rocket" />
 <img src="https://img.shields.io/badge/Platform-Windows|Mac|Linux|Termux-orange?style=for-the-badge&logo=windows" />
+</div>
 
 <br>
 
+<div align="center">
 <img src="https://img.shields.io/github/stars/Lucifer05321/LuciferRTXrpcV4?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/github/forks/Lucifer05321/LuciferRTXrpcV4?style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/github/issues/Lucifer05321/LuciferRTXrpcV4?style=for-the-badge&logo=github" />
+</div>
 
 <br>
 
-Professional Discord Rich Presence Engine with Auto-Renewal & Dual Control
+**Professional Discord Rich Presence Engine with Auto-Renewal & Dual Control**
 
 </div>
 
-🔥 Quick Links
+---
 
-<kbd>📥 SETUP GUIDE</kbd>
-<kbd>🎮 COMMANDS</kbd>
-<kbd>🔐 GET TOKEN</kbd>
-<kbd>🌟 FEATURES</kbd>
-<kbd>🆘 SUPPORT</kbd>
+<div align="center">
+
+### 🔥 Quick Links
+
+<kbd>📥 SETUP GUIDE</kbd> • <kbd>🎮 COMMANDS</kbd> • <kbd>🔐 GET TOKEN</kbd> • <kbd>🌟 FEATURES</kbd> • <kbd>🆘 SUPPORT</kbd>
+
+</div>
 
 ---
 
-🚀 Quick Start
+## 🚀 Quick Start
 
-One-Command Setup
+### One-Command Setup
 
 ```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git && cd LuciferRTXrpcV4 && npm install && npm start
@@ -139,17 +147,8 @@ Method 1: Official Installer
 
 ```cmd
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
-```
-
-```cmd
 cd LuciferRTXrpcV4
-```
-
-```cmd
 npm install
-```
-
-```cmd
 npm start
 ```
 
@@ -157,21 +156,9 @@ Method 2: Chocolatey (Admin)
 
 ```cmd
 choco install nodejs git -y
-```
-
-```cmd
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
-```
-
-```cmd
 cd LuciferRTXrpcV4
-```
-
-```cmd
 npm install
-```
-
-```cmd
 npm start
 ```
 
@@ -184,25 +171,10 @@ Method 1: Homebrew
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
-
-```bash
 brew install node git
-```
-
-```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
-```
-
-```bash
 cd LuciferRTXrpcV4
-```
-
-```bash
 npm install
-```
-
-```bash
 npm start
 ```
 
@@ -210,17 +182,8 @@ Method 2: Direct Install
 
 ```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
-```
-
-```bash
 cd LuciferRTXrpcV4
-```
-
-```bash
 npm install
-```
-
-```bash
 npm start
 ```
 
@@ -231,33 +194,12 @@ npm start
 
 ```bash
 sudo apt update && sudo apt upgrade -y
-```
-
-```bash
 sudo apt install curl git -y
-```
-
-```bash
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-```
-
-```bash
 sudo apt-get install -y nodejs
-```
-
-```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
-```
-
-```bash
 cd LuciferRTXrpcV4
-```
-
-```bash
 npm install
-```
-
-```bash
 npm start
 ```
 
@@ -268,33 +210,12 @@ npm start
 
 ```bash
 sudo apt update && sudo apt full-upgrade -y
-```
-
-```bash
 sudo apt install curl git build-essential -y
-```
-
-```bash
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-```
-
-```bash
 sudo apt-get install -y nodejs
-```
-
-```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
-```
-
-```bash
 cd LuciferRTXrpcV4
-```
-
-```bash
 npm install
-```
-
-```bash
 npm start
 ```
 
@@ -305,25 +226,10 @@ npm start
 
 ```bash
 pkg update && pkg upgrade -y
-```
-
-```bash
 pkg install nodejs git -y
-```
-
-```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
-```
-
-```bash
 cd LuciferRTXrpcV4
-```
-
-```bash
 npm install
-```
-
-```bash
 npm start
 ```
 
@@ -334,33 +240,12 @@ npm start
 
 ```bash
 sudo apt update && sudo apt upgrade -y
-```
-
-```bash
 sudo apt install curl git -y
-```
-
-```bash
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-```
-
-```bash
 sudo apt-get install -y nodejs
-```
-
-```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
-```
-
-```bash
 cd LuciferRTXrpcV4
-```
-
-```bash
 npm install
-```
-
-```bash
 nohup npm start > output.log 2>&1 &
 ```
 
@@ -587,10 +472,11 @@ pm2 logs lucifer-rpc    # View logs
 <details>
 <summary><kbd>📞 Contact & Links</kbd></summary>
 
-<kbd>🌐 Website</kbd>
-<kbd>📷 Instagram</kbd>
-<kbd>💻 GitHub</kbd>
-<kbd>🎮 Discord</kbd>
+<div align="center">
+
+<kbd>🌐 Website</kbd> • <kbd>📷 Instagram</kbd> • <kbd>💻 GitHub</kbd> • <kbd>🎮 Discord</kbd>
+
+</div>
 
 </details>
 
@@ -606,6 +492,22 @@ pm2 logs lucifer-rpc    # View logs
 · 📱 Mobile support - Works on Android via Termux
 · ☁️ Cloud ready - Deploy on AWS, Google Cloud, Azure
 
+<br>
+
 Made with ❤️ by Lucifer
+
+</div>
+
+---
+
+<div align="center">
+
+📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+⚠️ Disclaimer
+
+This tool is for educational purposes only. Use at your own risk.
 
 </div>
