@@ -1,5 +1,4 @@
 
-```markdown
 🚀 Lucifer RPC Engine v4.1
 
 <div align="center">
