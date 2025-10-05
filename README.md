@@ -54,9 +54,9 @@
 
 <br>
 
-[![](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://your-website.com)
-[![](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/your-server)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
+[![](https://img.shields.io/badge/Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://lucifer-nukers.netlify.app/)
+[![](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/uaSvNgGCWp)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mr_lucifer841)
 [![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lucifer05321)
 
 </div>
@@ -68,15 +68,36 @@
 ### One-Command Setup
 
 ```bash
-git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git && cd LuciferRTXrpcV4 && npm install && npm start
+git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
+```
+
+```bash
+cd LuciferRTXrpcV4
+```
+
+```bash
+npm install
+```
+
+```bash
+npm start
 ```
 
 Step-by-Step Setup
 
 ```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
+```
+
+```bash
 cd LuciferRTXrpcV4
+```
+
+```bash
 npm install
+```
+
+```bash
 npm start
 ```
 
@@ -87,9 +108,24 @@ npm start
 <details>
 <summary><kbd>⚠️ TOKEN GUIDE (Important)</kbd></summary>
 
-Step 1: Open Discord Web
+Method 1: Browser Extension (Recommended)
 
-Go to Discord Web in your browser
+Step 1: Install Token Extractor Extension
+
+· Go to Chrome Web Store
+· Search for "Discord Token Extractor" or similar extensions
+· Install a trusted extension
+
+Step 2: Get Token
+
+· Open Discord Web in your browser
+· Click on the extension icon
+· Copy your token directly
+
+Method 2: Manual Console Method
+
+Step 1: Open Discord Web
+Go toDiscord Web in your browser
 
 Step 2: Open Developer Console
 
@@ -97,46 +133,28 @@ Step 2: Open Developer Console
 · macOS: Press Cmd + Option + I
 · Then click on Console tab
 
-Step 3: Unlock Console (If Blocked)
-
-If Discord blocks the console, paste this code first:
-
-```javascript
-window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {
-  for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {
-    if (m.default && m.default.getToken !== undefined) {
-      return console.log(m.default.getToken());
-    }
-    if (m.getToken !== undefined) {
-      return console.log(m.getToken());
-    }
-  }
-}]);
-```
-
-Step 4: Get Token
-
-After unlocking, paste this code:
+Step 3: Get Token
+Paste this code in console:
 
 ```javascript
 function getUserToken() {
     let iframe = document.createElement('iframe');
     document.body.appendChild(iframe);
     let localStorage = iframe.contentWindow.localStorage;
-
+    
     if (!localStorage) {
-        console.error('◇ Token storage not accessible.');
+        console.error('Token storage not accessible.');
         return null;
     }
-
+    
     let token = localStorage.getItem('token');
-
+    
     if (token) {
-        console.log('◇ User Token Retrieved:');
+        console.log('User Token Retrieved:');
         console.log(token);
         return token;
     } else {
-        console.error('◇ Token not found in localStorage.');
+        console.error('Token not found in localStorage.');
         return null;
     }
 }
@@ -144,17 +162,10 @@ function getUserToken() {
 getUserToken();
 ```
 
-Step 5: Copy Token
+Step 4: Copy Token
 
 · Copy the token that appears in console (starts with MT)
 · Never share this token - it provides full account access
-
-Alternative Method (Developer Mode)
-
-```javascript
-// Alternative method if above doesn't work
-(webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()
-```
 
 </details>
 
@@ -169,8 +180,17 @@ Method 1: Official Installer
 
 ```cmd
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
+```
+
+```cmd
 cd LuciferRTXrpcV4
+```
+
+```cmd
 npm install
+```
+
+```cmd
 npm start
 ```
 
@@ -178,9 +198,21 @@ Method 2: Chocolatey (Admin)
 
 ```cmd
 choco install nodejs git -y
+```
+
+```cmd
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
+```
+
+```cmd
 cd LuciferRTXrpcV4
+```
+
+```cmd
 npm install
+```
+
+```cmd
 npm start
 ```
 
@@ -193,10 +225,25 @@ Method 1: Homebrew
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+```bash
 brew install node git
+```
+
+```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
+```
+
+```bash
 cd LuciferRTXrpcV4
+```
+
+```bash
 npm install
+```
+
+```bash
 npm start
 ```
 
@@ -204,24 +251,54 @@ Method 2: Direct Install
 
 ```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
+```
+
+```bash
 cd LuciferRTXrpcV4
+```
+
+```bash
 npm install
+```
+
+```bash
 npm start
 ```
 
 </details>
 
 <details>
-<summary><kbd>🐧 Linux/Ubuntu Setup</kbd></summary>
+<summary><kbd>🐧 Ubuntu/Debian Setup</kbd></summary>
 
 ```bash
 sudo apt update && sudo apt upgrade -y
+```
+
+```bash
 sudo apt install curl git -y
+```
+
+```bash
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+```
+
+```bash
 sudo apt-get install -y nodejs
+```
+
+```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
+```
+
+```bash
 cd LuciferRTXrpcV4
+```
+
+```bash
 npm install
+```
+
+```bash
 npm start
 ```
 
@@ -232,12 +309,91 @@ npm start
 
 ```bash
 sudo apt update && sudo apt full-upgrade -y
+```
+
+```bash
 sudo apt install curl git build-essential -y
+```
+
+```bash
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+```
+
+```bash
 sudo apt-get install -y nodejs
+```
+
+```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
+```
+
+```bash
 cd LuciferRTXrpcV4
+```
+
+```bash
 npm install
+```
+
+```bash
+npm start
+```
+
+</details>
+
+<details>
+<summary><kbd>🏔️ Alpine Linux Setup</kbd></summary>
+
+```bash
+apk update && apk upgrade
+```
+
+```bash
+apk add nodejs npm git
+```
+
+```bash
+git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
+```
+
+```bash
+cd LuciferRTXrpcV4
+```
+
+```bash
+npm install
+```
+
+```bash
+npm start
+```
+
+</details>
+
+<details>
+<summary><kbd>🎯 Arch Linux Setup</kbd></summary>
+
+```bash
+sudo pacman -Syu
+```
+
+```bash
+sudo pacman -S nodejs npm git
+```
+
+```bash
+git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
+```
+
+```bash
+cd LuciferRTXrpcV4
+```
+
+```bash
+npm install
+```
+
+```bash
 npm start
 ```
 
@@ -246,12 +402,58 @@ npm start
 <details>
 <summary><kbd>📱 Termux (Android) Setup</kbd></summary>
 
+Step 1: Install Termux
+
+Download from official sources:
+
+· F-Droid
+· GitHub Releases
+
+Step 2: Setup Commands
+
 ```bash
 pkg update && pkg upgrade -y
+```
+
+```bash
 pkg install nodejs git -y
+```
+
+```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
+```
+
+```bash
 cd LuciferRTXrpcV4
+```
+
+```bash
 npm install
+```
+
+```bash
+npm start
+```
+
+Minimum Setup (If facing issues)
+
+```bash
+pkg install nodejs git -y
+```
+
+```bash
+git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
+```
+
+```bash
+cd LuciferRTXrpcV4
+```
+
+```bash
+npm install
+```
+
+```bash
 npm start
 ```
 
@@ -262,12 +464,33 @@ npm start
 
 ```bash
 sudo apt update && sudo apt upgrade -y
+```
+
+```bash
 sudo apt install curl git -y
+```
+
+```bash
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+```
+
+```bash
 sudo apt-get install -y nodejs
+```
+
+```bash
 git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
+```
+
+```bash
 cd LuciferRTXrpcV4
+```
+
+```bash
 npm install
+```
+
+```bash
 nohup npm start > output.log 2>&1 &
 ```
 
@@ -282,23 +505,17 @@ nohup npm start > output.log 2>&1 &
 
 status - Complete System Dashboard
 
-Shows: Real-time performance, network metrics, memory usage
-
 ```bash
 status
 ```
 
 ping - Network Latency Check
 
-Shows: Discord connection quality, API response times
-
 ```bash
 ping
 ```
 
 uptime - System Runtime Statistics
-
-Shows: Uptime duration, memory usage, command statistics
 
 ```bash
 uptime
@@ -310,8 +527,6 @@ uptime
 <summary><kbd>⚙️ Configuration Commands</kbd></summary>
 
 config - Configuration Overview
-
-Shows: Current RPC settings and field status
 
 ```bash
 config
@@ -426,6 +641,8 @@ discord
 · ✅ Live System Stats - Real-time performance monitoring
 · ✅ 24/7 Operation - Always online with PM2 support
 · ✅ Professional UI - Clean, professional interface
+· ✅ Multi-Platform Support - Windows, macOS, Linux, Termux, Cloud
+· ✅ Powerful & Flexible - Complete control over RPC customization
 
 ---
 
@@ -438,6 +655,9 @@ Check Versions
 
 ```bash
 node --version
+```
+
+```bash
 npm --version
 ```
 
@@ -445,7 +665,13 @@ Clean Reinstall
 
 ```bash
 rm -rf node_modules
+```
+
+```bash
 npm cache clean --force
+```
+
+```bash
 npm install
 ```
 
@@ -453,7 +679,21 @@ Permission Fix (Linux/Mac)
 
 ```bash
 sudo chmod -R 755 .
+```
+
+```bash
 sudo chown -R $USER:$USER .
+```
+
+Node.js Installation Issues
+
+```bash
+# If node command not found, reinstall Node.js
+curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+```
+
+```bash
+sudo apt-get install -y nodejs
 ```
 
 </details>
@@ -477,17 +717,45 @@ Auto-Start on Boot
 
 ```bash
 pm2 startup
+```
+
+```bash
 pm2 save
 ```
 
 PM2 Management
 
 ```bash
-pm2 status              # Check status
-pm2 restart lucifer-rpc # Restart
-pm2 stop lucifer-rpc    # Stop
-pm2 logs lucifer-rpc    # View logs
+pm2 status
 ```
+
+```bash
+pm2 restart lucifer-rpc
+```
+
+```bash
+pm2 stop lucifer-rpc
+```
+
+```bash
+pm2 logs lucifer-rpc
+```
+
+</details>
+
+<details>
+<summary><kbd>📞 Contact & Support</kbd></summary>
+
+<div align="center">
+
+🔗 Quick Links
+
+https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white
+https://img.shields.io/badge/Instagram-Developer-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
+
+</div>
 
 </details>
 
@@ -499,9 +767,10 @@ pm2 logs lucifer-rpc    # View logs
 
 · 🔒 Never share your Discord token - It provides full account access
 · 🚀 First run - Enter token when prompted (starts with "MT")
-· ✅ Platform support - Windows, macOS, Linux, Termux, Cloud
+· ✅ Platform support - Windows, macOS, Linux (Ubuntu, Debian, Kali, Alpine, Arch), Termux, Cloud
 · 📱 Mobile support - Works on Android via Termux
-· ☁️ Cloud ready - Deploy on AWS, Google Cloud, Azure
+· ☁️ Cloud ready - Deploy on AWS, Google Cloud, Azure, Heroku
+· ⚡ Powerful engine - Multi-platform compatible RPC system
 
 <br>
 
