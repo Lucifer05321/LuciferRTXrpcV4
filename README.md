@@ -1,8 +1,8 @@
 🚀 Lucifer RPC Engine v4.1
 
 <div align="center">
-
-![Banner](https://cdn.jsdelivr.net/gh/Lucifer05321/Media_host_6xml/Cloud/RPC/LuciferRTXRPCv4bg.gif)
+    
+<img src="https://raw.githubusercontent.com/Lucifer05321/Media_host_6xml/57e0176e37d08a25575b181db14f4c37200005a1/Cloud/RPC/LuciferRTXRPCv4bg.gif" height="60" />
 
 <br>
 
