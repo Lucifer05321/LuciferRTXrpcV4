@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![Banner](https://cdn.jsdelivr.net/gh/Lucifer05321/Media_host_6xml/Cloud/RPC/LuciferRTXRPCv4bg.gif)
+(https://cdn.jsdelivr.net/gh/Lucifer05321/Media_host_6xml/Cloud/RPC/LuciferRTXRPCv4bg.gif)
 
 <br>
 
