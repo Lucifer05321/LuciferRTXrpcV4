@@ -65,24 +65,6 @@
 
 ## 🚀 Quick Start
 
-### One-Command Setup
-
-```bash
-git clone https://github.com/Lucifer05321/LuciferRTXrpcV4.git
-```
-
-```bash
-cd LuciferRTXrpcV4
-```
-
-```bash
-npm install
-```
-
-```bash
-npm start
-```
-
 Step-by-Step Setup
 
 ```bash
