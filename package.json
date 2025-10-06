@@ -1,26 +1,56 @@
 {
-  "name": "LuciferRTXrpcV5",
-  "version": "1.0.0",
-  "description": "▪︎ LUCIFER RPC ENGINE v1.0 — Self-Managed Discord Rich Presence System",
+  "name": "@luciferrpc/engine",
+  "version": "4.1.0",
+  "description": "A professional, feature-rich Discord Rich Presence (RPC) engine for self-bots, offering an advanced 8-command system, auto-media renewal, and a secure configuration system.",
   "main": "boot.js",
   "type": "module",
   "scripts": {
-    "start": "node boot.js",
-    "obfuscate": "javascript-obfuscator boot.js --output boot.obf.js --compact true --self-defending true --control-flow-flattening true --control-flow-flattening-threshold 1 --string-array true --string-array-encoding base64 --string-array-threshold 1 --debug-protection true --disable-console-output true"
+    "start": "node --no-warnings boot.js",
+    "dev": "nodemon --no-warnings boot.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "discord.js-selfbot-v13": "^3.7.0",
+    "figlet": "^1.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "nodemon": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucifer05321/LuciferRTXrpcV4.git"
   },
   "keywords": [
     "discord",
-    "richpresence",
+    "rpc",
+    "rich-presence",
     "selfbot",
+    "discord-selfbot",
+    "discord-rpc",
+    "discord-api",
+    "discord.js",
+    "automation",
+    "status",
+    "custom-status",
     "lucifer",
-    "rpc-engine",
-    "obfuscation"
+    "engine",
+    "v13",
+    "nodejs",
+    "cli",
+    "console-ui"
   ],
-  "author": "Lucifer",
-  "license": "UNLICENSED",
-  "dependencies": {
-    "chalk": "^5.4.1",
-    "discord.js-selfbot-v13": "^3.7.0",
-    "figlet": "^1.8.2"
-  }
+  "author": "Lucifer05321 (https://github.com/Lucifer05321)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lucifer05321/LuciferRTXrpcV4/issues"
+  },
+  "homepage": "https://lucifer-nukers.netlify.app/",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "private": true
 }
