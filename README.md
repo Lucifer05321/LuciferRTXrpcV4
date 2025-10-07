@@ -90,13 +90,15 @@ npm start
 <details>
 <summary><kbd>⚠️ TOKEN GUIDE (Important)</kbd></summary>
 
-Method 1: Browser Extension (Recommended)
+🎯 Recommended Method: Chrome Extension
 
 Step 1: Install Token Extractor Extension
 
-· Go to Chrome Web Store
-· Search for "Discord Token Extractor" or similar extensions
-· Install a trusted extension
+📥 Direct Chrome Web Store Link:
+
+```
+https://chromewebstore.google.com/detail/accgjfooejbpdchkfpngkjjdekkcbnfd?utm_source=item-share-cb
+```
 
 Step 2: Get Token
 
@@ -104,10 +106,26 @@ Step 2: Get Token
 · Click on the extension icon
 · Copy your token directly
 
-Method 2: Manual Console Method
+📱 Termux Users (Android)
+
+Step 1: Install Termux
+
+📥 Direct F-Droid Download Link:
+
+```
+https://f-droid.org/repo/com.termux_1002.apk
+```
+
+Step 2: Alternative Methods
+
+· F-Droid Store (Recommended)
+· GitHub Releases
+· Official Termux Website
+
+🔧 Manual Console Method
 
 Step 1: Open Discord Web
-Go toDiscord Web in your browser
+Go to Discord Web in your browser
 
 Step 2: Open Developer Console
 
@@ -386,10 +404,11 @@ npm start
 
 Step 1: Install Termux
 
-Download from official sources:
+📥 Direct Download Link:
 
-· F-Droid
-· GitHub Releases
+```
+https://f-droid.org/repo/com.termux_1002.apk
+```
 
 Step 2: Setup Commands
 
@@ -733,13 +752,32 @@ pm2 logs lucifer-rpc
 🔗 Quick Links
 
 https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/Instagram-Developer-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
+https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
+
+📥 Direct Downloads
+
+https://img.shields.io/badge/Chrome_Extension-Token_Extractor-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/Termux-Android_App-00B0FF?style=for-the-badge&logo=android&logoColor=white
 
 </div>
 
 </details>
+
+---
+
+<div align="center">
+
+💝 Support the Project
+
+If you find this project helpful and want to support its development, consider making a donation. Your support helps maintain and improve the software!
+
+[Donation Links Will Be Added Here Soon]
+
+More payment options coming in the next update!
+
+</div>
 
 ---
 
