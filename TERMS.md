@@ -1,3 +1,5 @@
+> © 2025 Lucifer — All Rights Reserved | Educational Software Only
+
 # TERMS OF SERVICE
 
 ## ACCEPTANCE OF TERMS
@@ -6,29 +8,33 @@ these Terms of Service and all applicable laws.
 
 ## PERMITTED USE
 ### You MAY:
-- Use for personal educational purposes
-- Test in controlled environments
-- Learn from the software
+- Use for personal educational purposes  
+- Test in controlled environments  
+- Learn from the software  
 
 ### You MAY NOT:
-- Redistribute or share
+- Redistribute or share  
 - Use for commercial purposes  
-- Modify or reverse engineer
-- Use for illegal activities
+- Modify or reverse engineer  
+- Use for illegal activities  
 
 ## RISK ACKNOWLEDGEMENT
-You acknowledge that:
-- Software provided "as is"
-- Potential platform TOS violations
-- No warranties or guarantees
-- You assume all responsibility
+You acknowledge that:  
+- Software provided "as is"  
+- Potential platform TOS violations  
+- No warranties or guarantees  
+- You assume all responsibility  
 
 ## COMPLIANCE
-You agree to:
-- Comply with all applicable laws
-- Respect intellectual property
-- Not engage in illegal activities
-- Assume all legal responsibility
+You agree to:  
+- Comply with all applicable laws  
+- Respect intellectual property  
+- Not engage in illegal activities  
+- Assume all legal responsibility  
+
+## TERMINATION
+Violation of any term will result in immediate termination
+of your rights to use this software.
 
 ## CONTACT
 For disputes contact developer.
