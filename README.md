@@ -63,6 +63,44 @@
 
 ---
 
+## 📊 Version Comparison Chart
+
+### 🔥 Complete Feature Breakdown: v4.1 vs v4.2 vs v4.3
+
+| Feature / Category | v4.1 (Base Version) | v4.2 (Improved Edition) | v4.3 (Revolutionary Edition) |
+|-------------------|---------------------|-------------------------|------------------------------|
+| **RPC System** | ✓ Basic RPC System | ✓ Optimized RPC | ✓ **Smart RPC Engine** |
+| **Setup Process** | ✓ Manual Configuration | ✓ Semi-Automated | ✓ **Auto-Smart Setup** |
+| **UI & Display** | ✗ Basic Interface | ✓ Enhanced UI | ✓ **Advanced Dynamic UI** |
+| **Error Handling** | ✗ Basic Logs | ✓ Improved Error Capture | ✓ **Smart Error Monitor** |
+| **Status System** | ✗ Manual Updates | ✓ Enhanced Real-time Status | ✓ **Smart Self-Refresh** |
+| **Smart Bot System** | ✗ Not Available | ✗ Not Available | ✓ **Instant Global in 2s** |
+| **Update Engine** | ✗ 2-5s Updates | ✗ 1-3s Updates | ✓ **0ms-2000ms Multi-tier** |
+| **Rate Limiting** | ✗ Disabled | ✗ Disabled | ✓ **Active (5 commands/10s)** |
+| **Anti-Spam System** | ✗ None | ✗ None | ✓ **Advanced Spam Filter** |
+| **Button Validation** | ✓ Basic JSON Only | ✓ Medium Strict | ✓ **Any Format Works** |
+| **User Protection** | ✗ None | ✗ None | ✓ **Multi-user Protection** |
+| **Performance** | 🐢 Standard (2-5s) | 🚗 Faster (1-3s) | 🚀 **10x Faster (0ms-2s)** |
+| **Commands Count** | 12 Total | 14 Total (+2) | **16 Total (+2)** |
+| **System Monitoring** | 3 Commands | 4 Commands | **6 Commands** |
+| **Configuration** | 3 Commands | 3 Commands | 3 Commands |
+| **Access Control** | 2 Commands | 2 Commands | **3 Commands** |
+| **Support Commands** | 4 Commands | 5 Commands | 4 Commands |
+| **New Features** | ✓ Base Features | ✓ +2 Commands | ✓ **+2 Commands + Smart Systems** |
+| **Security Level** | ✗ Basic Only | ✓ Medium Protection | ✓ **Advanced Protection** |
+| **Smart Systems** | ✗ None | ✗ None | ✓ **4 Smart Managers** |
+| **Flexibility** | ✗ Limited | ✓ Semi-Flexible | ✓ **Fully Flexible** |
+| **User Experience** | ✗ Basic | ✓ Improved | ✓ **Ultra-Smooth** |
+| **Overall Stability** | ✓ Solid Base | ✓ Better Stability | ✓ **Enhanced & Monitored** |
+| **Intelligence** | ✗ None | ✗ None | ✓ **Smart AI Systems** |
+| **Live Metrics** | ✗ None | ✗ None | ✓ **Real-time Monitoring** |
+| **Validation System** | ✓ Strict JSON | ✓ Relaxed JSON | ✓ **Free Format Input** |
+| **Global Rate Limit** | ✗ None | ✗ None | ✓ **20 commands/min** |
+| **Protection Tier** | ✗ Basic | ✗ None | ✓ **Advanced Tier** |
+| **Recommendation** | ✓ Good Base | ✓ Strong Upgrade | ✓ **BEST EDITION** |
+
+---
+
 ## 🆕 What's New in v4.3
 
 ### 🚀 Performance & Speed
@@ -123,7 +161,7 @@ Step 2: Get Token
 
 · Open Discord Web in your browser
 ·Click on the extension icon
-· Copy your token directly
+·Copy your token directly
 
 📱 Termux Users (Android)
 
@@ -135,7 +173,7 @@ Step 2: Alternative Methods
 
 · F-Droid Store (Recommended)
 ·GitHub Releases
-· Official Termux Website
+·Official Termux Website
 
 🔧 Manual Console Method
 
@@ -145,7 +183,7 @@ Go to Discord Web in your browser
 Step 2: Open Developer Console
 
 · Windows/Linux: Press Ctrl + Shift + I
-·macOS: Press Cmd + Option + I
+·macOS:Press Cmd + Option + I
 ·Then click on Console tab
 
 Step 3: Get Token
@@ -180,7 +218,7 @@ getUserToken();
 Step 4: Copy Token
 
 · Copy the token that appears in console (starts with MT)
-·Never share this token - it provides full account access
+·Never share this token- it provides full account access
 
 </details>
 
@@ -743,7 +781,7 @@ up token "YOUR_NEW_TOKEN"
 
 · ✅ Instant Updates - Changes apply in 0ms/500ms/2000ms (10x faster than v4.1)
 ·✅ No Button Validation - Buttons work with JSON, pipe-separated, or plain text
-·✅ Rate Limiting - 5 commands/10s per user + 20 commands/minute global protection
+· ✅ Rate Limiting - 5 commands/10s per user + 20 commands/minute global protection
 ·✅ Smart Reload System - Priority-based queue for multiple updates
 ·✅ Advanced RPC - Fully customizable Discord presence
 ·✅ Auto Media Renewal - Automatic image updates every 12 hours
@@ -880,48 +918,25 @@ https://img.shields.io/badge/Termux-Android_App-00B0FF?style=for-the-badge&logo=
 
 <div align="center">
 
-💝 Support the Project
+📄 License & Disclaimer
 
-If you find this project helpful and want to support its development, consider making a donation. Your support helps maintain and improve the software!
+License: See LICENSE file for details.
 
-[Donation Links Will Be Added Here Soon]
+Disclaimer: This tool is for educational purposes only. Users are responsible for complying with Discord's Terms of Service.
 
-More payment options coming in the next update!
+Important:
 
-</div>
-
----
-
-<div align="center">
-
-⚠️ Important Notes
-
-· 🔒 Never share your Discord token - It provides full account access
-·🚀 First run - Enter token when prompted (starts with "MT")
-· ✅ Platform support - Windows, macOS, Linux (Ubuntu, Debian, Kali, Alpine, Arch), Termux, Cloud
-·📱 Mobile support - Works on Android via Termux
-·☁️ Cloud ready - Deploy on AWS, Google Cloud, Azure, Heroku
-·⚡ Instant updates - Changes apply in 0ms/500ms/2000ms (10x faster)
-·🆓 No validation - Buttons accept any format (JSON, pipe, or text)
-·🛡️ Rate limiting - 5 commands/10s protection against spam
-·🔧 16 commands - Complete control system for RPC management
+· 🔒 Never share your Discord token
+· 🚀 Use responsibly and respect rate limits
+· 📱 Supports Windows, macOS, Linux, Termux & Cloud platforms
 
 <br>
 
 Made with ❤️ by Lucifer
 
-</div>
-
----
-
-<div align="center">
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-⚠️ Disclaimer
-
-This tool is for educational purposes only. Use at your own risk.
+Website • 
+Discord• 
+Instagram• 
+GitHub
 
 </div>
