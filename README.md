@@ -1,4 +1,4 @@
-🚀 Lucifer RPC Engine v4.1
+🚀 Lucifer RPC Engine v4.3 - SMART EDITION
 
 <div align="center">
     
@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Version-4.1_Professional-purple?style=for-the-badge&logo=azurepipelines" />
+<img src="https://img.shields.io/badge/Version-4.3_SMART_EDITION-purple?style=for-the-badge&logo=azurepipelines" />
 <img src="https://img.shields.io/badge/Node.js->=18.0-green?style=for-the-badge&logo=nodedotjs" />
 <img src="https://img.shields.io/badge/Status-ACTIVE-brightgreen?style=for-the-badge&logo=rocket" />
 <img src="https://img.shields.io/badge/Platform-Windows|Mac|Linux|Termux-orange?style=for-the-badge&logo=windows" />
@@ -31,9 +31,9 @@
 
 <pre>
     💼 Professional Discord Rich Presence Engine
-    ⚡ Auto-Renewal & Dual Control System
-    🔧 Fully Customizable RPC Settings
-    🛡️ Secure & Encrypted Configuration
+    ⚡ INSTANT UPDATES - 0ms/500ms/2000ms Smart Reload
+    🔧 NO VALIDATION - Buttons Accept Any Format
+    🛡️ RATE LIMITING - 5 commands/10s Protection
     🌐 Multi-Platform Support
     📱 24/7 Operation Ready
 </pre>
@@ -44,7 +44,7 @@
 
 ### 🔥 Quick Links
 
-<kbd>📥 SETUP GUIDE</kbd> • <kbd>🎮 COMMANDS</kbd> • <kbd>🔐 GET TOKEN</kbd> • <kbd>🌟 FEATURES</kbd> • <kbd>🆘 SUPPORT</kbd>
+<kbd>📥 SETUP GUIDE</kbd> • <kbd>🎮 COMMANDS</kbd> • <kbd>🔐 GET TOKEN</kbd> • <kbd>🆕 WHAT'S NEW</kbd> • <kbd>🌟 FEATURES</kbd> • <kbd>🆘 SUPPORT</kbd>
 
 </div>
 
@@ -60,6 +60,29 @@
 [![](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lucifer05321)
 
 </div>
+
+---
+
+## 🆕 What's New in v4.3
+
+### 🚀 Performance & Speed
+- **Instant Updates**: Changes apply in 0ms (text/buttons), 500ms (images), 2000ms (system) - previously 2-5 seconds
+- **Smart Reload System**: Priority-based queue for multiple updates
+- **No Button Validation**: Buttons work with any format - JSON, pipe-separated, or plain text
+
+### 🛡️ Security & Protection  
+- **Rate Limiting**: 5 commands per 10 seconds per user + 20 commands per minute global
+- **Anti-Spam Protection**: Prevents command abuse and system overload
+
+### 🎯 New Commands & Features
+- `rateinfo` - View rate limit status and usage
+- `reloadstatus` - Check reload system queue and performance
+- Enhanced system status with real-time metrics
+
+### ⚡ Technical Improvements
+- Centralized message management system
+- Better error handling and user feedback
+- Enhanced system monitoring and diagnostics
 
 ---
 
@@ -94,32 +117,24 @@ npm start
 
 Step 1: Install Token Extractor Extension
 
-📥 Direct Chrome Web Store Link:
-
-```
-https://chromewebstore.google.com/detail/accgjfooejbpdchkfpngkjjdekkcbnfd?utm_source=item-share-cb
-```
+https://img.shields.io/badge/CLICK_HERE-Install_Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white
 
 Step 2: Get Token
 
 · Open Discord Web in your browser
-· Click on the extension icon
+·Click on the extension icon
 · Copy your token directly
 
 📱 Termux Users (Android)
 
 Step 1: Install Termux
 
-📥 Direct F-Droid Download Link:
-
-```
-https://f-droid.org/repo/com.termux_1002.apk
-```
+https://img.shields.io/badge/CLICK_HERE-Download_Termux-00B0FF?style=for-the-badge&logo=android&logoColor=white
 
 Step 2: Alternative Methods
 
 · F-Droid Store (Recommended)
-· GitHub Releases
+·GitHub Releases
 · Official Termux Website
 
 🔧 Manual Console Method
@@ -130,8 +145,8 @@ Go to Discord Web in your browser
 Step 2: Open Developer Console
 
 · Windows/Linux: Press Ctrl + Shift + I
-· macOS: Press Cmd + Option + I
-· Then click on Console tab
+·macOS: Press Cmd + Option + I
+·Then click on Console tab
 
 Step 3: Get Token
 Paste this code in console:
@@ -165,7 +180,7 @@ getUserToken();
 Step 4: Copy Token
 
 · Copy the token that appears in console (starts with MT)
-· Never share this token - it provides full account access
+·Never share this token - it provides full account access
 
 </details>
 
@@ -404,11 +419,7 @@ npm start
 
 Step 1: Install Termux
 
-📥 Direct Download Link:
-
-```
-https://f-droid.org/repo/com.termux_1002.apk
-```
+https://img.shields.io/badge/CLICK_HERE-Download_Termux_App-00B0FF?style=for-the-badge&logo=android&logoColor=white
 
 Step 2: Setup Commands
 
@@ -499,110 +510,139 @@ nohup npm start > output.log 2>&1 &
 
 ---
 
-🎮 Command Reference
+🎮 Complete Command Reference (16 Commands)
+
+📊 System Monitoring Commands
 
 <details>
-<summary><kbd>📊 System Monitoring Commands</kbd></summary>
+<summary><kbd>Click to Expand - 5 Commands</kbd></summary>
 
-status - Complete System Dashboard
+status / st - Complete System Dashboard
 
 ```bash
 status
+# or short version
+st
 ```
 
-ping - Network Latency Check
+Shows: Performance metrics, network stats, memory usage, RPC status
+
+ping / pg - Network Latency Check
 
 ```bash
 ping
+# or short version
+pg
 ```
 
-uptime - System Runtime Statistics
+Shows: WebSocket ping, API latency, connection quality
+
+uptime / ut - System Runtime Statistics
 
 ```bash
 uptime
+# or short version  
+ut
 ```
+
+Shows: System uptime, resource usage, command statistics
+
+rateinfo - Rate Limit Information
+
+```bash
+rateinfo
+```
+
+Shows: Current rate limit usage, reset times, user limits
+
+reloadstatus - Reload System Status
+
+```bash
+reloadstatus
+```
+
+Shows: Reload queue status, performance metrics, cooldown info
 
 </details>
 
-<details>
-<summary><kbd>⚙️ Configuration Commands</kbd></summary>
+⚙️ Configuration Commands
 
-config - Configuration Overview
+<details>
+<summary><kbd>Click to Expand - 3 Commands</kbd></summary>
+
+config / cfg - Configuration Overview
 
 ```bash
 config
+# or short version
+cfg
 ```
 
-update - Modify RPC Settings
+Shows: All configuration fields with current values and status
 
-Update Name:
+update / up - INSTANT RPC Updates
 
 ```bash
-update Name "My Custom RPC"
+update name "My Custom RPC"
+# or short version
+up name "My Custom RPC"
 ```
 
-Update Status:
+Updates: Any RPC setting instantly with smart reload system
 
-```bash
-update State "Playing Game"
-```
-
-Update Button:
-
-```bash
-update button1 '{"label":"Visit","url":"https://example.com"}'
-```
-
-Change Renewal Time:
-
-```bash
-update renewalTime 6
-```
-
-</details>
-
-<details>
-<summary><kbd>🔐 Access Control Commands</kbd></summary>
-
-access add - Grant User Permissions
-
-```bash
-access add @username
-```
-
-access remove - Revoke User Permissions
-
-```bash
-access remove @username
-```
-
-access list - View Authorized Users
-
-```bash
-access list
-```
-
-</details>
-
-<details>
-<summary><kbd>🔄 System Control Commands</kbd></summary>
-
-reload - Refresh RPC System
+reload / rl - Refresh RPC Instantly
 
 ```bash
 reload
+# or short version
+rl
 ```
 
-help - Show All Commands
-
-```bash
-help
-```
+Action: Forces immediate RPC refresh and media renewal
 
 </details>
 
+🔐 Access Control Commands
+
 <details>
-<summary><kbd>🌐 Support Commands</kbd></summary>
+<summary><kbd>Click to Expand - 3 Commands</kbd></summary>
+
+access add / acc add - Grant User Permissions
+
+```bash
+access add @username
+# or short version  
+acc add @username
+```
+
+Action: Grants command access to mentioned user
+
+access remove / acc remove - Revoke User Permissions
+
+```bash
+access remove @username
+# or short version
+acc remove @username
+```
+
+Action: Removes command access from user
+
+access list / acc list - View Authorized Users
+
+```bash
+access list
+# or short version
+acc list
+```
+
+Shows: All users with command access and their IDs
+
+</details>
+
+🌐 Support Commands
+
+<details>
+<summary><kbd>Click to Expand - 5 Commands</kbd></summary>
 
 website - Official Website
 
@@ -610,11 +650,15 @@ website - Official Website
 website
 ```
 
+Action: Opens project website in browser
+
 instagram - Developer Instagram
 
 ```bash
 instagram
 ```
+
+Action: Opens Instagram profile in browser
 
 github - Source Code
 
@@ -622,28 +666,95 @@ github - Source Code
 github
 ```
 
+Action: Opens GitHub repository in browser
+
 discord - Community Server
 
 ```bash
 discord
 ```
 
+Action: Opens Discord server invite in browser
+
+help / hlp - Command Documentation
+
+```bash
+help
+# or short version
+hlp
+```
+
+Shows: Complete command guide with examples
+
 </details>
+
+---
+
+⚡ Update Command Examples
+
+🚀 Instant Updates (0ms - Apply Immediately)
+
+```bash
+# Change application name
+up name "My Custom RPC"
+
+# Change status text  
+up state "Streaming Music"
+
+# Change details text
+up details "Playing awesome games"
+
+# Buttons - ANY FORMAT WORKS!
+up btn1 "Website|https://example.com"
+up btn1 '{"label":"Visit","url":"https://example.com"}'
+up btn1 "My Button"
+up btn2 "Follow|https://instagram.com"
+
+# Text fields
+up largeTxt "Custom large text"
+up smallTxt "Custom small text"
+
+# Time settings
+up showTime true
+up timeZone "America/New_York"
+```
+
+⚡ Quick Updates (500ms - Fast Media Refresh)
+
+```bash
+# Update images from Discord message links
+up largeImg "https://discord.com/channels/123/456/789"
+up smallImg "https://discord.com/channels/123/456/790"
+```
+
+🔧 System Updates (2000ms - Full Reload)
+
+```bash
+# Change auto-renewal time
+up renewTime 24
+
+# Update token (requires restart)
+up token "YOUR_NEW_TOKEN"
+```
 
 ---
 
 🌟 Key Features
 
-· ✅ Advanced RPC - Fully customizable Discord presence
-· ✅ Auto Media Renewal - Automatic image updates every 12 hours
-· ✅ Dual Interface - Control via Discord chat or console
-· ✅ Secure Storage - Encrypted configuration management
-· ✅ Multi-User Access - Grant command permissions to trusted users
-· ✅ Live System Stats - Real-time performance monitoring
-· ✅ 24/7 Operation - Always online with PM2 support
-· ✅ Professional UI - Clean, professional interface
-· ✅ Multi-Platform Support - Windows, macOS, Linux, Termux, Cloud
-· ✅ Powerful & Flexible - Complete control over RPC customization
+· ✅ Instant Updates - Changes apply in 0ms/500ms/2000ms (10x faster than v4.1)
+·✅ No Button Validation - Buttons work with JSON, pipe-separated, or plain text
+·✅ Rate Limiting - 5 commands/10s per user + 20 commands/minute global protection
+·✅ Smart Reload System - Priority-based queue for multiple updates
+·✅ Advanced RPC - Fully customizable Discord presence
+·✅ Auto Media Renewal - Automatic image updates every 12 hours
+·✅ Dual Interface - Control via Discord chat or console
+·✅ Secure Storage - Encrypted configuration management
+·✅ Multi-User Access - Grant command permissions to trusted users
+·✅ Live System Stats - Real-time performance monitoring
+·✅ 24/7 Operation - Always online with PM2 support
+·✅ Professional UI - Clean, professional interface
+·✅ Multi-Platform Support - Windows, macOS, Linux, Termux, Cloud
+·✅ 16 Powerful Commands - Complete control over RPC customization
 
 ---
 
@@ -786,11 +897,14 @@ More payment options coming in the next update!
 ⚠️ Important Notes
 
 · 🔒 Never share your Discord token - It provides full account access
-· 🚀 First run - Enter token when prompted (starts with "MT")
+·🚀 First run - Enter token when prompted (starts with "MT")
 · ✅ Platform support - Windows, macOS, Linux (Ubuntu, Debian, Kali, Alpine, Arch), Termux, Cloud
-· 📱 Mobile support - Works on Android via Termux
-· ☁️ Cloud ready - Deploy on AWS, Google Cloud, Azure, Heroku
-· ⚡ Powerful engine - Multi-platform compatible RPC system
+·📱 Mobile support - Works on Android via Termux
+·☁️ Cloud ready - Deploy on AWS, Google Cloud, Azure, Heroku
+·⚡ Instant updates - Changes apply in 0ms/500ms/2000ms (10x faster)
+·🆓 No validation - Buttons accept any format (JSON, pipe, or text)
+·🛡️ Rate limiting - 5 commands/10s protection against spam
+·🔧 16 commands - Complete control system for RPC management
 
 <br>
 
