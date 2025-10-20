@@ -779,19 +779,32 @@ up token "YOUR_NEW_TOKEN"
 
 🌟 Key Features
 
-· ✅ Instant Updates - Changes apply in 0ms/500ms/2000ms (10x faster than v4.1)
+·✅ Instant Updates - Changes apply in 0ms/500ms/2000ms (10x faster than v4.1)
+
 ·✅ No Button Validation - Buttons work with JSON, pipe-separated, or plain text
-· ✅ Rate Limiting - 5 commands/10s per user + 20 commands/minute global protection
+
+·✅ Rate Limiting - 5 commands/10s per user + 20 commands/minute global protection
+
 ·✅ Smart Reload System - Priority-based queue for multiple updates
+
 ·✅ Advanced RPC - Fully customizable Discord presence
+
 ·✅ Auto Media Renewal - Automatic image updates every 12 hours
+
 ·✅ Dual Interface - Control via Discord chat or console
+
 ·✅ Secure Storage - Encrypted configuration management
+
 ·✅ Multi-User Access - Grant command permissions to trusted users
+
 ·✅ Live System Stats - Real-time performance monitoring
+
 ·✅ 24/7 Operation - Always online with PM2 support
+
 ·✅ Professional UI - Clean, professional interface
+
 ·✅ Multi-Platform Support - Windows, macOS, Linux, Termux, Cloud
+
 ·✅ 16 Powerful Commands - Complete control over RPC customization
 
 ---
