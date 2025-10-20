@@ -211,7 +211,7 @@ Step 4: Copy Your Token
 🖥️ Platform Setup Guides
 
 <details>
-<summary><kbd>![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) Windows Setup</kbd></summary>
+<summary><kbd>[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) Windows Setup](#)</kbd></summary>
 
 Method 1: Standard Installation
 
@@ -247,7 +247,7 @@ Method 3: Windows Terminal (Recommended)
 </details>
 
 <details>
-<summary><kbd>![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) macOS Setup</kbd></summary>
+<summary><kbd>[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) macOS Setup](#)</kbd></summary>
 
 Method 1: Homebrew Installation
 
@@ -281,7 +281,7 @@ npm start
 </details>
 
 <details>
-<summary><kbd>![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) Ubuntu/Debian Setup</kbd></summary>
+<summary><kbd>[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) Ubuntu/Debian Setup](#)</kbd></summary>
 
 ```bash
 # Update system packages
@@ -304,7 +304,7 @@ npm start
 </details>
 
 <details>
-<summary><kbd>![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) Kali Linux Setup</kbd></summary>
+<summary><kbd>[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) Kali Linux Setup](#)</kbd></summary>
 
 ```bash
 # Update system
@@ -327,7 +327,7 @@ npm start
 </details>
 
 <details>
-<summary><kbd>![Termux](https://img.shields.io/badge/Termux-00B0FF?style=for-the-badge&logo=android&logoColor=white) Termux (Android) Setup</kbd></summary>
+<summary><kbd>[![Termux](https://img.shields.io/badge/Termux-00B0FF?style=for-the-badge&logo=android&logoColor=white) Termux (Android) Setup](#)</kbd></summary>
 
 Step 1: Install Termux
 
@@ -369,7 +369,7 @@ npm start
 </details>
 
 <details>
-<summary><kbd>![Cloud](https://img.shields.io/badge/Cloud_Platforms-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) Cloud Platforms Setup</kbd></summary>
+<summary><kbd>[![Cloud](https://img.shields.io/badge/Cloud_Platforms-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) Cloud Platforms Setup](#)</kbd></summary>
 
 ```bash
 # Update system
@@ -645,23 +645,43 @@ up clientId "123456789012345678"
 
 🌟 Key Features
 
-· ✅ Instant Updates - Changes apply in 0ms/500ms/2000ms (10x faster than v4.1)
-· ✅ No Button Validation - Buttons work with JSON, pipe-separated, or plain text
-· ✅ Rate Limiting - 5 commands/10s per user + 20 commands/minute global protection
-· ✅ Smart Reload System - Priority-based queue for multiple updates
-· ✅ Advanced RPC - Fully customizable Discord presence with rich media
-· ✅ Auto Media Renewal - Automatic image updates every 12 hours
-· ✅ Dual Interface - Control via Discord chat or console input
-· ✅ Secure Storage - Encrypted configuration management
-· ✅ Multi-User Access - Grant command permissions to trusted users
-· ✅ Live System Stats - Real-time performance monitoring
-· ✅ 24/7 Operation - Always online with PM2 and process management
-· ✅ Professional UI - Clean, modern interface with status indicators
-· ✅ Multi-Platform Support - Windows, macOS, Linux, Termux, Cloud platforms
-· ✅ 16 Powerful Commands - Complete control over RPC customization
-· ✅ Smart Error Handling - Automatic recovery from connection issues
-· ✅ Customizable Themes - Multiple appearance options
-· ✅ Backup System - Automatic configuration backups
+<div align="center">
+
+🚀 Instant Updates - Changes apply in 0ms/500ms/2000ms (10x faster than v4.1)
+
+🔧 No Button Validation - Buttons work with JSON, pipe-separated, or plain text
+
+🛡️ Rate Limiting - 5 commands/10s per user + 20 commands/minute global protection
+
+⚡ Smart Reload System - Priority-based queue for multiple updates
+
+🎨 Advanced RPC - Fully customizable Discord presence with rich media
+
+🔄 Auto Media Renewal - Automatic image updates every 12 hours
+
+💬 Dual Interface - Control via Discord chat or console input
+
+🔒 Secure Storage - Encrypted configuration management
+
+👥 Multi-User Access - Grant command permissions to trusted users
+
+📊 Live System Stats - Real-time performance monitoring
+
+🌙 24/7 Operation - Always online with PM2 and process management
+
+🎯 Professional UI - Clean, modern interface with status indicators
+
+🌐 Multi-Platform Support - Windows, macOS, Linux, Termux, Cloud platforms
+
+🎮 16 Powerful Commands - Complete control over RPC customization
+
+🛠️ Smart Error Handling - Automatic recovery from connection issues
+
+🎨 Customizable Themes - Multiple appearance options
+
+💾 Backup System - Automatic configuration backups
+
+</div>
 
 ---
 
@@ -821,9 +841,9 @@ Before Asking for Help
 
 If you find this project helpful and want to support continued development:
 
-<!-- Add your Buy Me a Coffee link here -->
-
 https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
+
+Your support helps maintain and improve this project!
 
 </div>
 
@@ -856,10 +876,10 @@ Disclaimer: This tool is developed for educational and personal use purposes onl
 
 Made with ❤️ by Lucifer
 
-https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=flat-square&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/Discord-Community_Server-5865F2?style=flat-square&logo=discord&logoColor=white
-https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=flat-square&logo=instagram&logoColor=white
-https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=github&logoColor=white
+https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
+https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
 
 </div>
 
@@ -870,5 +890,7 @@ https://img.shields.io/badge/GitHub-Source_Code-181717?style=flat-square&logo=gi
 ⭐ If you find this project helpful, please give it a star on GitHub!
 
 https://api.star-history.com/svg?repos=Lucifer05321/LuciferRTXrpcV4&type=Date
+
+https://img.shields.io/badge/⭐_Give_Star-181717?style=for-the-badge&logo=github&logoColor=white
 
 </div>
