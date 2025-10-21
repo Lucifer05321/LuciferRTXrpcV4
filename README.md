@@ -1,8 +1,9 @@
 🚀 Lucifer RPC Engine v4.3 - SMART EDITION
 
-<div align="center">
 
-![Lucifer RPC Banner](https://raw.githubusercontent.com/Lucifer05321/Media_host_6xml/main/Cloud/RPC/LuciferRTXRPCv4bg.gif)
+<div align="center">
+    
+<img src="https://raw.githubusercontent.com/Lucifer05321/Media_host_6xml/57e0176e37d08a25575b181db14f4c37200005a1/Cloud/RPC/LuciferRTXRPCv4bg.gif" height="1000" />
 
 <br>
 
@@ -13,7 +14,7 @@
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Version-4.3_SMART_EDITION-purple?style=for-the-badge&logo=azurepipelines" />
+<img src="https://img.shields.io/badge/Version-4.1_Professional-purple?style=for-the-badge&logo=azurepipelines" />
 <img src="https://img.shields.io/badge/Node.js->=18.0-green?style=for-the-badge&logo=nodedotjs" />
 <img src="https://img.shields.io/badge/Status-ACTIVE-brightgreen?style=for-the-badge&logo=rocket" />
 <img src="https://img.shields.io/badge/Platform-Windows|Mac|Linux|Termux-orange?style=for-the-badge&logo=windows" />
@@ -67,7 +68,9 @@
 
 <br>
 
-![Kyubey](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif)
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="60" />
+
+<br>
 
 </div>
 
@@ -75,7 +78,7 @@
 
 ## 📊 Version Comparison Chart - What's New in v4.3 🆕
 
-![Version Comparison](Screenshot_20251022-024111_Chrome.jpg)
+![Version Comparison](Version_Comparison_Chart.jpg)
 
 ---
 
@@ -196,15 +199,7 @@ Step 4: Copy Your Token
 
 🖥️ Platform Setup Guides
 
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white
-https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
-https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white
-https://img.shields.io/badge/Termux-00B0FF?style=for-the-badge&logo=android&logoColor=white
-https://img.shields.io/badge/Cloud_Platforms-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
-
-Windows Setup
-
+https://img.shields.io/badge/🪟_Windows_Setup-0078D6?style=for-the-badge&logo=windows&logoColor=white
 <details>
 <summary><kbd>Click to Expand - Windows Setup</kbd></summary>
 
@@ -260,7 +255,7 @@ Method 3: Windows Terminal (Recommended)
 
 </details>
 
-macOS Setup
+https://img.shields.io/badge/🍎_macOS_Setup-000000?style=for-the-badge&logo=apple&logoColor=white
 
 <details>
 <summary><kbd>Click to Expand - macOS Setup</kbd></summary>
@@ -315,8 +310,7 @@ npm start
 
 </details>
 
-Ubuntu/Debian Setup
-
+https://img.shields.io/badge/🐧_Ubuntu_Setup-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 <details>
 <summary><kbd>Click to Expand - Ubuntu/Debian Setup</kbd></summary>
 
@@ -354,8 +348,7 @@ npm start
 
 </details>
 
-Kali Linux Setup
-
+https://img.shields.io/badge/🔓_Kali_Linux_Setup-557C94?style=for-the-badge&logo=kalilinux&logoColor=white
 <details>
 <summary><kbd>Click to Expand - Kali Linux Setup</kbd></summary>
 
@@ -393,8 +386,7 @@ npm start
 
 </details>
 
-Termux (Android) Setup
-
+https://img.shields.io/badge/📱_Termux_Setup-00B0FF?style=for-the-badge&logo=android&logoColor=white
 <details>
 <summary><kbd>Click to Expand - Termux Setup</kbd></summary>
 
@@ -452,8 +444,7 @@ npm start
 
 </details>
 
-Cloud Platforms Setup
-
+https://img.shields.io/badge/☁️_Cloud_Platforms_Setup-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
 <details>
 <summary><kbd>Click to Expand - Cloud Platforms Setup</kbd></summary>
 
