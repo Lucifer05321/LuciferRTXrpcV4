@@ -210,8 +210,8 @@ Step 4: Copy Your Token
 
 🖥️ Platform Setup Guides
 
-<details>
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" 
+<details>
 <summary><kbd>[/> Windows Setup](#)</kbd></summary>
 
 Method 1: Standard Installation
@@ -247,8 +247,8 @@ Method 3: Windows Terminal (Recommended)
 
 </details>
 
-<details>
 <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"
+<details>
 <summary><kbd>[ /> macOS Setup](#)</kbd></summary>
 
 Method 1: Homebrew Installation
@@ -282,8 +282,8 @@ npm start
 
 </details>
 
-<details>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+<details>
 <summary><kbd>[ /> Ubuntu/Debian Setup](#)</kbd></summary>
 
 ```bash
@@ -306,8 +306,8 @@ npm start
 
 </details>
 
-<details>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"
+<details>
 <summary><kbd>[ /> Kali Linux Setup](#)</kbd></summary>
 
 ```bash
@@ -330,8 +330,8 @@ npm start
 
 </details>
 
-<details>
 <img src="https://img.shields.io/badge/Termux-00B0FF?style=for-the-badge&logo=android&logoColor=white"
+<details>
 <summary><kbd>[ /> Termux (Android) Setup](#)</kbd></summary>
 
 Step 1: Install Termux
@@ -372,9 +372,9 @@ npm start
 ```
 
 </details>
-
+<img src="https://img.shields.io/badge/Cloud_Platforms-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
 <details>
-<summary><kbd>[<img src="https://img.shields.io/badge/Cloud_Platforms-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> Cloud Platforms Setup](#)</kbd></summary>
+<summary><kbd>[ /> Cloud Platforms Setup](#)</kbd></summary>
 
 ```bash
 # Update system
