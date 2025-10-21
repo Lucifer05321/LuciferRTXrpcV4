@@ -770,7 +770,6 @@ up clientId "123456789012345678"
 🎮 16 Powerful Commands - Complete control over RPC customization
 🛠️ Smart Error Handling - Automatic recovery from connection issues
 
-</div>
 
 ---
 
