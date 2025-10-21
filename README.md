@@ -755,38 +755,20 @@ up clientId "123456789012345678"
 🌟 Key Features
 
 🚀 Instant Updates - Changes apply in 0ms/500ms/2000ms (10x faster than v4.1)
-
 🔧 No Button Validation - Buttons work with JSON, pipe-separated, or plain text
-
 🛡️ Rate Limiting - 5 commands/10s per user + 20 commands/minute global protection
-
 ⚡ Smart Reload System - Priority-based queue for multiple updates
-
 🎨 Advanced RPC - Fully customizable Discord presence with rich media
-
 🔄 Auto Media Renewal - Automatic image updates every 12 hours
-
 💬 Dual Interface - Control via Discord chat or console input
-
-🔒 Secure Storage - Encrypted configuration management
-
+🔒 Secure Storage - configuration management
 👥 Multi-User Access - Grant command permissions to trusted users
-
 📊 Live System Stats - Real-time performance monitoring
-
 🌙 24/7 Operation - Always online with PM2 and process management
-
 🎯 Professional UI - Clean, modern interface with status indicators
-
 🌐 Multi-Platform Support - Windows, macOS, Linux, Termux, Cloud platforms
-
 🎮 16 Powerful Commands - Complete control over RPC customization
-
 🛠️ Smart Error Handling - Automatic recovery from connection issues
-
-🎨 Customizable Themes - Multiple appearance options
-
-💾 Backup System - Automatic configuration backups
 
 </div>
 
@@ -947,9 +929,8 @@ Before Asking for Help
 ☕ Support This Project
 
 If you find this project helpful and want to support continued development:
-<img
-src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 
+[![Coffee]([https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black))](https://lucifer-nukers.netlify.app)
 Your support helps maintain and improve this project!
 
 </div>
@@ -995,9 +976,9 @@ https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=
 <div align="center">
 
 ⭐ If you find this project helpful, please give it a star on GitHub!
-
-https://api.star-history.com/svg?repos=Lucifer05321/LuciferRTXrpcV4&type=Date
-
-https://img.shields.io/badge/⭐_Give_Star-181717?style=for-the-badge&logo=github&logoColor=white
+<img
+src="https://api.star-history.com/svg?repos=Lucifer05321/LuciferRTXrpcV4&type=Date" />
+<img
+src="https://img.shields.io/badge/⭐_Give_Star-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
