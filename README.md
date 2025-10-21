@@ -75,7 +75,7 @@
 
 ## 📊 Version Comparison Chart - What's New in v4.3 🆕
 
-![Version Comparison](Version_Comparison_Chart.jpg)
+![Version Comparison](Screenshot_20251022-024111_Chrome.jpg)
 
 ---
 
@@ -195,6 +195,13 @@ Step 4: Copy Your Token
 ---
 
 🖥️ Platform Setup Guides
+
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white
+https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white
+https://img.shields.io/badge/Termux-00B0FF?style=for-the-badge&logo=android&logoColor=white
+https://img.shields.io/badge/Cloud_Platforms-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
 
 Windows Setup
 
@@ -757,22 +764,22 @@ up clientId "123456789012345678"
 
 <div align="center">
 
-🚀 Instant Updates - Changes apply in 0ms/500ms/2000ms
-🔧 No Button Validation - Buttons work with any format
-🛡️ Rate Limiting - 5 commands/10s per user protection
-⚡ Smart Reload System - Priority-based update queue
-🎨 Advanced RPC - Fully customizable Discord presence
-🔄 Auto Media Renewal - Automatic image updates
-💬 Dual Interface - Discord chat or console control
-🔒 Secure Storage - Encrypted configuration management
-👥 Multi-User Access - Grant command permissions
-📊 Live System Stats - Real-time performance monitoring
-🌙 24/7 Operation - Always online with PM2
-🎯 Professional UI - Clean, modern interface
-🌐 Multi-Platform Support - Windows, macOS, Linux, Termux, Cloud
-🎮 16 Powerful Commands - Complete RPC control
-🛠️ Smart Error Handling - Automatic recovery
-💾 Backup System - Automatic configuration backups
+https://img.shields.io/badge/⚡_Instant_Updates-0ms/500ms/2000ms-00C851?style=for-the-badge
+https://img.shields.io/badge/🔧_No_Button_Validation-Any_Format_Works-FF4444?style=for-the-badge
+https://img.shields.io/badge/🛡️_Rate_Limiting-5_commands/10s-9C27B0?style=for-the-badge
+https://img.shields.io/badge/⚡_Smart_Reload-Priority_Queue-FF9800?style=for-the-badge
+https://img.shields.io/badge/🎨_Advanced_RPC-Fully_Customizable-2196F3?style=for-the-badge
+https://img.shields.io/badge/🔄_Auto_Media_Renewal-Automatic_Updates-607D8B?style=for-the-badge
+https://img.shields.io/badge/💬_Dual_Interface-Discord_+_Console-795548?style=for-the-badge
+https://img.shields.io/badge/🔒_Secure_Storage-Encrypted_Config-4CAF50?style=for-the-badge
+https://img.shields.io/badge/👥_Multi_User_Access-Grant_Permissions-E91E63?style=for-the-badge
+https://img.shields.io/badge/📊_Live_System_Stats-Real_time_Monitoring-009688?style=for-the-badge
+https://img.shields.io/badge/🌙_24/7_Operation-Always_Online-673AB7?style=for-the-badge
+https://img.shields.io/badge/🎯_Professional_UI-Clean_Modern-3F51B5?style=for-the-badge
+https://img.shields.io/badge/🌐_Multi_Platform-Windows_macOS_Linux_Termux_Cloud-FF5722?style=for-the-badge
+https://img.shields.io/badge/🎮_16_Powerful_Commands-Complete_Control-795548?style=for-the-badge
+https://img.shields.io/badge/🛠️_Smart_Error_Handling-Auto_Recovery-607D8B?style=for-the-badge
+https://img.shields.io/badge/💾_Backup_System-Auto_Config_Backups-9E9E9E?style=for-the-badge
 
 </div>
 
@@ -905,16 +912,12 @@ pm2 start npm --name "lucifer-rpc" -- start -i max
 
 <div align="center">
 
-🔗 Official Links
+https://img.shields.io/badge/🌐_Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/💬_Discord_Server-Community_Support-5865F2?style=for-the-badge&logo=discord&logoColor=white
+https://img.shields.io/badge/📷_Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/🐙_GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
 
-https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
-
-🐛 Bug Reports
-
-https://img.shields.io/badge/GitHub-Report_Issues-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/🐛_Report_Issues-GitHub_Issues-181717?style=for-the-badge&logo=github&logoColor=white
 
 </div>
 
@@ -941,7 +944,7 @@ Before Asking for Help:
 
 If you find this project helpful and want to support continued development:
 
-https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
+https://img.shields.io/badge/☕_Buy_Me_A_Coffee-Support_Development-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black
 
 Your support helps maintain and improve this project!
 
@@ -957,29 +960,33 @@ License: MIT License - See LICENSE file for complete details.
 
 Disclaimer: This tool is developed for educational and personal use purposes only. Users are solely responsible for complying with Discord's Terms of Service and Developer Policy. The developers are not responsible for any misuse or damages caused by this software.
 
+<br>
+
 ⚠️ Important Security Notes
 
-· 🔒 Never share your Discord token with anyone
-· 🚀 Use responsibly and respect Discord's rate limits
-· 📱 Supports multiple platforms
-· 🔄 Keep updated to latest version
-· 📊 Monitor usage to avoid API limits
+https://img.shields.io/badge/🔒_Never_Share_Discord_Token-Personal_Use_Only-FF4444?style=for-the-badge
+https://img.shields.io/badge/🚀_Use_Responsibly-Respect_Rate_Limits-FF9800?style=for-the-badge
+https://img.shields.io/badge/📱_Multi_Platform_Support-Windows_macOS_Linux_Termux_Cloud-2196F3?style=for-the-badge
+https://img.shields.io/badge/🔄_Keep_Updated-Latest_Version_Security-4CAF50?style=for-the-badge
+https://img.shields.io/badge/📊_Monitor_Usage-Avoid_API_Limits-607D8B?style=for-the-badge
+
+<br>
 
 🎯 Recommended Usage
 
-· Personal profile customization
-· Developer testing environments
-· Educational projects
-· Non-commercial applications
+https://img.shields.io/badge/👤_Personal_Profile_Customization-00C851?style=for-the-badge
+https://img.shields.io/badge/💻_Developer_Testing_Environments-2196F3?style=for-the-badge
+https://img.shields.io/badge/🎓_Educational_Projects-9C27B0?style=for-the-badge
+https://img.shields.io/badge/🚫_Non_Commercial_Applications-FF4444?style=for-the-badge
 
 <br>
 
 Made with ❤️ by Lucifer
 
-https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/🌐_Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/💬_Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
+https://img.shields.io/badge/📷_Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/🐙_GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
 
 </div>
 
@@ -991,6 +998,6 @@ https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=
 
 https://api.star-history.com/svg?repos=Lucifer05321/LuciferRTXrpcV4&type=Date
 
-https://img.shields.io/badge/⭐_Give_Star-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/⭐_Give_Star_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 
 </div>
