@@ -198,8 +198,8 @@ Step 4: Copy Your Token
 ---
 
 🖥️ Platform Setup Guides
-
-https://img.shields.io/badge/🪟_Windows_Setup-0078D6?style=for-the-badge&logo=windows&logoColor=white
+<img
+src="https://img.shields.io/badge/🪟_Windows_Setup-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <details>
 <summary><kbd>Click to Expand - Windows Setup</kbd></summary>
 
@@ -309,8 +309,8 @@ npm start
 ```
 
 </details>
-
-https://img.shields.io/badge/🐧_Ubuntu_Setup-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+<img
+src="https://img.shields.io/badge/🐧_Ubuntu_Setup-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <details>
 <summary><kbd>Click to Expand - Ubuntu/Debian Setup</kbd></summary>
 
@@ -347,8 +347,8 @@ npm start
 ```
 
 </details>
-
-https://img.shields.io/badge/🔓_Kali_Linux_Setup-557C94?style=for-the-badge&logo=kalilinux&logoColor=white
+<img
+src="https://img.shields.io/badge/🔓_Kali_Linux_Setup-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <details>
 <summary><kbd>Click to Expand - Kali Linux Setup</kbd></summary>
 
@@ -385,8 +385,8 @@ npm start
 ```
 
 </details>
-
-https://img.shields.io/badge/📱_Termux_Setup-00B0FF?style=for-the-badge&logo=android&logoColor=white
+<img
+src="https://img.shields.io/badge/📱_Termux_Setup-00B0FF?style=for-the-badge&logo=android&logoColor=white" />
 <details>
 <summary><kbd>Click to Expand - Termux Setup</kbd></summary>
 
@@ -443,8 +443,8 @@ npm start
 ```
 
 </details>
-
-https://img.shields.io/badge/☁️_Cloud_Platforms_Setup-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white
+<img
+src="https://img.shields.io/badge/☁️_Cloud_Platforms_Setup-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <details>
 <summary><kbd>Click to Expand - Cloud Platforms Setup</kbd></summary>
 
