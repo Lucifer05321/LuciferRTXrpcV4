@@ -44,11 +44,11 @@
 
 🔥 Quick Navigation
 
-[![SETUP GUIDE](https://img.shields.io/badge/📥_SETUP_GUIDE-4285F4?style=for-the-badge&logo=book&logoColor=white)](#-quick-start)
-[![COMMANDS](https://img.shields.io/badge/🎮_COMMANDS-FF6B6B?style=for-the-badge&logo=terminal&logoColor=white)](#-complete-command-reference-16-commands)
-[![GET TOKEN](https://img.shields.io/badge/🔐_GET_TOKEN-34A853?style=for-the-badge&logo=discord&logoColor=white)](#-get-discord-token)
-[![FEATURES](https://img.shields.io/badge/🌟_FEATURES-FFA500?style=for-the-badge&logo=star&logoColor=white)](#-key-features)
-[![SUPPORT](https://img.shields.io/badge/🆘_SUPPORT-E4405F?style=for-the-badge&logo=help&logoColor=white)](#-support--troubleshooting)
+[<img src="https://img.shields.io/badge/📥_SETUP_GUIDE-4285F4?style=for-the-badge&logo=book&logoColor=white" />](#-quick-start)
+[<img src="https://img.shields.io/badge/🎮_COMMANDS-FF6B6B?style=for-the-badge&logo=terminal&logoColor=white" />](#-complete-command-reference-16-commands)
+[<img src="https://img.shields.io/badge/🔐_GET_TOKEN-34A853?style=for-the-badge&logo=discord&logoColor=white" />](#-get-discord-token)
+[<img src="https://img.shields.io/badge/🌟_FEATURES-FFA500?style=for-the-badge&logo=star&logoColor=white" />](#-key-features)
+[<img src="https://img.shields.io/badge/🆘_SUPPORT-E4405F?style=for-the-badge&logo=help&logoColor=white" />](#-support--troubleshooting)
 
 </div>
 
@@ -58,10 +58,10 @@
 
 🔗 Connect With Me
 
-[![Website](https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lucifer-nukers.netlify.app)
-[![Discord](https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NwqwbyQvZZ)
-[![Instagram](https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_lucifer841)
-[![GitHub](https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lucifer05321)
+[<img src="https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://lucifer-nukers.netlify.app)
+[<img src="https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />](https://discord.gg/NwqwbyQvZZ)
+[<img src="https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/mr_lucifer841)
+[<img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Lucifer05321)
 
 </div>
 
@@ -128,7 +128,7 @@ Step 1: Install Token Extractor Extension
 
 · Search for "Discord Token Extractor" in Chrome Web Store
 · Install a reputable token extraction extension
-· Or use: https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white
+· Or use: <img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white" />
 
 Step 2: Get Your Token
 
@@ -140,7 +140,7 @@ Step 2: Get Your Token
 
 Step 1: Install Termux
 
-· Download from https://img.shields.io/badge/Termux-Android_App-00B0FF?style=flat-square&logo=android&logoColor=white
+· Download from <img src="https://img.shields.io/badge/Termux-Android_App-00B0FF?style=flat-square&logo=android&logoColor=white" />
 · Or from GitHub Releases
 
 Step 2: Setup Environment
@@ -211,7 +211,7 @@ Step 4: Copy Your Token
 🖥️ Platform Setup Guides
 
 <details>
-<summary><kbd>[![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) Windows Setup](#)</kbd></summary>
+<summary><kbd>[<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> Windows Setup](#)</kbd></summary>
 
 Method 1: Standard Installation
 
@@ -247,7 +247,7 @@ Method 3: Windows Terminal (Recommended)
 </details>
 
 <details>
-<summary><kbd>[![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white) macOS Setup](#)</kbd></summary>
+<summary><kbd>[<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" /> macOS Setup](#)</kbd></summary>
 
 Method 1: Homebrew Installation
 
@@ -281,7 +281,7 @@ npm start
 </details>
 
 <details>
-<summary><kbd>[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) Ubuntu/Debian Setup](#)</kbd></summary>
+<summary><kbd>[<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> Ubuntu/Debian Setup](#)</kbd></summary>
 
 ```bash
 # Update system packages
@@ -304,7 +304,7 @@ npm start
 </details>
 
 <details>
-<summary><kbd>[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white) Kali Linux Setup](#)</kbd></summary>
+<summary><kbd>[<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> Kali Linux Setup](#)</kbd></summary>
 
 ```bash
 # Update system
@@ -327,11 +327,11 @@ npm start
 </details>
 
 <details>
-<summary><kbd>[![Termux](https://img.shields.io/badge/Termux-00B0FF?style=for-the-badge&logo=android&logoColor=white) Termux (Android) Setup](#)</kbd></summary>
+<summary><kbd>[<img src="https://img.shields.io/badge/Termux-00B0FF?style=for-the-badge&logo=android&logoColor=white" /> Termux (Android) Setup](#)</kbd></summary>
 
 Step 1: Install Termux
 
-· Download from https://img.shields.io/badge/F_Droid-1976D2?style=flat-square&logo=fdroid&logoColor=white
+· Download from <img src="https://img.shields.io/badge/F_Droid-1976D2?style=flat-square&logo=fdroid&logoColor=white" />
 · Or from GitHub Releases
 
 Step 2: Complete Setup Commands
@@ -369,7 +369,7 @@ npm start
 </details>
 
 <details>
-<summary><kbd>[![Cloud](https://img.shields.io/badge/Cloud_Platforms-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) Cloud Platforms Setup](#)</kbd></summary>
+<summary><kbd>[<img src="https://img.shields.io/badge/Cloud_Platforms-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> Cloud Platforms Setup](#)</kbd></summary>
 
 ```bash
 # Update system
@@ -546,7 +546,7 @@ website - Official Website
 website
 ```
 
-Action: Opens https://img.shields.io/badge/Lucifer_Domains-000000?style=flat-square&logo=google-chrome&logoColor=white in browser
+Action: Opens <img src="https://img.shields.io/badge/Lucifer_Domains-000000?style=flat-square&logo=google-chrome&logoColor=white" /> in browser
 
 discord - Community Server
 
@@ -554,7 +554,7 @@ discord - Community Server
 discord
 ```
 
-Action: Opens https://img.shields.io/badge/Discord_Server-5865F2?style=flat-square&logo=discord&logoColor=white in browser
+Action: Opens <img src="https://img.shields.io/badge/Discord_Server-5865F2?style=flat-square&logo=discord&logoColor=white" /> in browser
 
 github - Source Code
 
@@ -562,7 +562,7 @@ github - Source Code
 github
 ```
 
-Action: Opens https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white in browser
+Action: Opens <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white" /> in browser
 
 help / hlp - Command Documentation
 
@@ -800,21 +800,21 @@ pm2 start npm --name "lucifer-rpc" -- start -i max
 
 🔗 Official Links & Resources
 
-https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
+<img src="https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 📥 Download Links
 
-https://img.shields.io/badge/Termux-Android_App-00B0FF?style=for-the-badge&logo=android&logoColor=white
-https://img.shields.io/badge/Node.js-Runtime_18.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white
+<img src="https://img.shields.io/badge/Termux-Android_App-00B0FF?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-Runtime_18.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
 
 🐛 Bug Reports & Feature Requests
 
-https://img.shields.io/badge/GitHub-Report_Issues-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Discord-Get_Support-5865F2?style=for-the-badge&logo=discord&logoColor=white
+<img src="https://img.shields.io/badge/GitHub-Report_Issues-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-Get_Support-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 
 </div>
 
@@ -841,7 +841,7 @@ Before Asking for Help
 
 If you find this project helpful and want to support continued development:
 
-https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 
 Your support helps maintain and improve this project!
 
@@ -876,10 +876,10 @@ Disclaimer: This tool is developed for educational and personal use purposes onl
 
 Made with ❤️ by Lucifer
 
-https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
+<img src="https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -891,6 +891,6 @@ https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=
 
 https://api.star-history.com/svg?repos=Lucifer05321/LuciferRTXrpcV4&type=Date
 
-https://img.shields.io/badge/⭐_Give_Star-181717?style=for-the-badge&logo=github&logoColor=white
+<img src="https://img.shields.io/badge/⭐_Give_Star-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
