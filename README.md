@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lucifer05321/Media_host_6xml/57e0176e37d08a25575b181db14f4c37200005a1/Cloud/RPC/LuciferRTXRPCv4bg.gif" height="1000" />
+<img src="https://raw.githubusercontent.com/Lucifer05321/Media_host_6xml/57e0176e37d08a25575b181db14f4c37200005a1/Cloud/RPC/LuciferRTXRPCv4bg.gif" height="10000" />
 
 <br>
 
@@ -211,7 +211,8 @@ Step 4: Copy Your Token
 🖥️ Platform Setup Guides
 
 <details>
-<summary><kbd>[<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> Windows Setup](#)</kbd></summary>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" 
+<summary><kbd>[/> Windows Setup](#)</kbd></summary>
 
 Method 1: Standard Installation
 
@@ -247,7 +248,8 @@ Method 3: Windows Terminal (Recommended)
 </details>
 
 <details>
-<summary><kbd>[<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" /> macOS Setup](#)</kbd></summary>
+<img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"
+<summary><kbd>[ /> macOS Setup](#)</kbd></summary>
 
 Method 1: Homebrew Installation
 
@@ -281,7 +283,8 @@ npm start
 </details>
 
 <details>
-<summary><kbd>[<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> Ubuntu/Debian Setup](#)</kbd></summary>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"
+<summary><kbd>[ /> Ubuntu/Debian Setup](#)</kbd></summary>
 
 ```bash
 # Update system packages
@@ -304,7 +307,8 @@ npm start
 </details>
 
 <details>
-<summary><kbd>[<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> Kali Linux Setup](#)</kbd></summary>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"
+<summary><kbd>[ /> Kali Linux Setup](#)</kbd></summary>
 
 ```bash
 # Update system
@@ -327,7 +331,8 @@ npm start
 </details>
 
 <details>
-<summary><kbd>[<img src="https://img.shields.io/badge/Termux-00B0FF?style=for-the-badge&logo=android&logoColor=white" /> Termux (Android) Setup](#)</kbd></summary>
+<img src="https://img.shields.io/badge/Termux-00B0FF?style=for-the-badge&logo=android&logoColor=white"
+<summary><kbd>[ /> Termux (Android) Setup](#)</kbd></summary>
 
 Step 1: Install Termux
 
@@ -891,6 +896,7 @@ Made with ❤️ by Lucifer
 
 https://api.star-history.com/svg?repos=Lucifer05321/LuciferRTXrpcV4&type=Date
 
-<img src="https://img.shields.io/badge/⭐_Give_Star-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img
+src="https://img.shields.io/badge/⭐_Give_Star-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
