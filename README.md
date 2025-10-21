@@ -3,12 +3,12 @@
 
 <div align="center">
     
-<img src="https://raw.githubusercontent.com/Lucifer05321/Media_host_6xml/57e0176e37d08a25575b181db14f4c37200005a1/Cloud/RPC/LuciferRTXRPCv4bg.gif" height="1000" />
+<img src="https://raw.githubusercontent.com/Lucifer05321/Media_host_6xml/57e0176e37d08a25575b181db14f4c37200005a1/Cloud/RPC/LuciferRTXRPCv4bg.gif" height="10000" />
 
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Welcome+to+Lucifer+Domains;Professional+Discord+RPC+Engine+%F0%9F%9A%80" width="90%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Welcome+to+Lucifer+Domains;Professional+Discord+RPC+Engine+%F0%9F%9A%80" width="100%" />
 </div>
 
 <br>
@@ -198,6 +198,7 @@ Step 4: Copy Your Token
 ---
 
 🖥️ Platform Setup Guides
+
 <img
 src="https://img.shields.io/badge/🪟_Windows_Setup-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <details>
@@ -254,8 +255,8 @@ Method 3: Windows Terminal (Recommended)
 · Supports multiple tabs and profiles
 
 </details>
-
-https://img.shields.io/badge/🍎_macOS_Setup-000000?style=for-the-badge&logo=apple&logoColor=white
+<img
+src="https://img.shields.io/badge/🍎_macOS_Setup-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
 <details>
 <summary><kbd>Click to Expand - macOS Setup</kbd></summary>
@@ -753,24 +754,39 @@ up clientId "123456789012345678"
 
 🌟 Key Features
 
-<div align="center">
+🚀 Instant Updates - Changes apply in 0ms/500ms/2000ms (10x faster than v4.1)
 
-https://img.shields.io/badge/⚡_Instant_Updates-0ms/500ms/2000ms-00C851?style=for-the-badge
-https://img.shields.io/badge/🔧_No_Button_Validation-Any_Format_Works-FF4444?style=for-the-badge
-https://img.shields.io/badge/🛡️_Rate_Limiting-5_commands/10s-9C27B0?style=for-the-badge
-https://img.shields.io/badge/⚡_Smart_Reload-Priority_Queue-FF9800?style=for-the-badge
-https://img.shields.io/badge/🎨_Advanced_RPC-Fully_Customizable-2196F3?style=for-the-badge
-https://img.shields.io/badge/🔄_Auto_Media_Renewal-Automatic_Updates-607D8B?style=for-the-badge
-https://img.shields.io/badge/💬_Dual_Interface-Discord_+_Console-795548?style=for-the-badge
-https://img.shields.io/badge/🔒_Secure_Storage-Encrypted_Config-4CAF50?style=for-the-badge
-https://img.shields.io/badge/👥_Multi_User_Access-Grant_Permissions-E91E63?style=for-the-badge
-https://img.shields.io/badge/📊_Live_System_Stats-Real_time_Monitoring-009688?style=for-the-badge
-https://img.shields.io/badge/🌙_24/7_Operation-Always_Online-673AB7?style=for-the-badge
-https://img.shields.io/badge/🎯_Professional_UI-Clean_Modern-3F51B5?style=for-the-badge
-https://img.shields.io/badge/🌐_Multi_Platform-Windows_macOS_Linux_Termux_Cloud-FF5722?style=for-the-badge
-https://img.shields.io/badge/🎮_16_Powerful_Commands-Complete_Control-795548?style=for-the-badge
-https://img.shields.io/badge/🛠️_Smart_Error_Handling-Auto_Recovery-607D8B?style=for-the-badge
-https://img.shields.io/badge/💾_Backup_System-Auto_Config_Backups-9E9E9E?style=for-the-badge
+🔧 No Button Validation - Buttons work with JSON, pipe-separated, or plain text
+
+🛡️ Rate Limiting - 5 commands/10s per user + 20 commands/minute global protection
+
+⚡ Smart Reload System - Priority-based queue for multiple updates
+
+🎨 Advanced RPC - Fully customizable Discord presence with rich media
+
+🔄 Auto Media Renewal - Automatic image updates every 12 hours
+
+💬 Dual Interface - Control via Discord chat or console input
+
+🔒 Secure Storage - Encrypted configuration management
+
+👥 Multi-User Access - Grant command permissions to trusted users
+
+📊 Live System Stats - Real-time performance monitoring
+
+🌙 24/7 Operation - Always online with PM2 and process management
+
+🎯 Professional UI - Clean, modern interface with status indicators
+
+🌐 Multi-Platform Support - Windows, macOS, Linux, Termux, Cloud platforms
+
+🎮 16 Powerful Commands - Complete control over RPC customization
+
+🛠️ Smart Error Handling - Automatic recovery from connection issues
+
+🎨 Customizable Themes - Multiple appearance options
+
+💾 Backup System - Automatic configuration backups
 
 </div>
 
@@ -784,115 +800,101 @@ https://img.shields.io/badge/💾_Backup_System-Auto_Config_Backups-9E9E9E?style
 Check System Requirements
 
 ```bash
+# Verify Node.js version
 node --version
-```
 
-```bash
+# Verify npm version
 npm --version
-```
 
-```bash
+# Check if git is installed
 git --version
 ```
 
 Clean Reinstallation
 
 ```bash
+# Remove node_modules and reinstall
 rm -rf node_modules
-```
-
-```bash
 npm cache clean --force
-```
-
-```bash
 npm install
 ```
 
 Permission Issues (Linux/Mac)
 
 ```bash
+# Fix file permissions
 sudo chmod -R 755 .
-```
-
-```bash
 sudo chown -R $USER:$USER .
 ```
 
 Node.js Installation Issues
 
 ```bash
+# Reinstall Node.js if commands not found
 curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
-```
-
-```bash
 sudo apt-get install -y nodejs
 ```
 
 Port Already in Use
 
 ```bash
+# Find and kill process using port
 lsof -ti:3000 | xargs kill -9
 ```
 
 Discord Token Issues
 
-· Ensure token starts with MT or mfa.
-· No extra spaces in token
-· Use Discord Web for reliable token extraction
+· Ensure token is copied correctly (starts with MT or mfa.)
+· Token should not contain extra spaces
+· Use Discord Web for most reliable token extraction
 
 </details>
 
 <details>
 <summary><kbd>🚀 24/7 Operation with PM2</kbd></summary>
 
-Install PM2
+Install PM2 Process Manager
 
 ```bash
 npm install -g pm2
 ```
 
-Start with PM2
+Start Lucifer RPC with PM2
 
 ```bash
 pm2 start npm --name "lucifer-rpc" -- start
 ```
 
-Auto-Start on Boot
+Configure Auto-Start on Boot
 
 ```bash
 pm2 startup
-```
-
-```bash
 pm2 save
 ```
 
-PM2 Management
+PM2 Management Commands
 
 ```bash
+# View status
 pm2 status
-```
 
-```bash
+# Restart application
 pm2 restart lucifer-rpc
-```
 
-```bash
+# Stop application
 pm2 stop lucifer-rpc
-```
 
-```bash
+# View logs
 pm2 logs lucifer-rpc
-```
 
-```bash
+# Monitor performance
 pm2 monit
 ```
 
-Multiple Instances
+Multiple Instances (Advanced)
 
 ```bash
+# Start multiple instances (load balancing)
 pm2 start npm --name "lucifer-rpc" -- start -i max
 ```
 
@@ -903,26 +905,37 @@ pm2 start npm --name "lucifer-rpc" -- start -i max
 
 <div align="center">
 
-https://img.shields.io/badge/🌐_Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/💬_Discord_Server-Community_Support-5865F2?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/📷_Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/🐙_GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
+🔗 Official Links & Resources
 
-https://img.shields.io/badge/🐛_Report_Issues-GitHub_Issues-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
+https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
+
+📥 Download Links
+
+https://img.shields.io/badge/Termux-Android_App-00B0FF?style=for-the-badge&logo=android&logoColor=white
+https://img.shields.io/badge/Node.js-Runtime_18.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white
+
+🐛 Bug Reports & Feature Requests
+
+https://img.shields.io/badge/GitHub-Report_Issues-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/Discord-Get_Support-5865F2?style=for-the-badge&logo=discord&logoColor=white
 
 </div>
 
-Response Times:
+Response Time Expectations
 
 · Discord Support: 1-6 hours
 · GitHub Issues: 12-24 hours
 · Critical Bugs: Priority handling
 
-Before Asking for Help:
+Before Asking for Help
 
 1. Check this README thoroughly
 2. Look at existing GitHub issues
-3. Ensure setup meets requirements
+3. Ensure your setup meets requirements
 4. Provide error logs and system info
 
 </details>
@@ -934,8 +947,8 @@ Before Asking for Help:
 ☕ Support This Project
 
 If you find this project helpful and want to support continued development:
-
-https://img.shields.io/badge/☕_Buy_Me_A_Coffee-Support_Development-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black
+<img
+src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
 
 Your support helps maintain and improve this project!
 
@@ -951,33 +964,29 @@ License: MIT License - See LICENSE file for complete details.
 
 Disclaimer: This tool is developed for educational and personal use purposes only. Users are solely responsible for complying with Discord's Terms of Service and Developer Policy. The developers are not responsible for any misuse or damages caused by this software.
 
-<br>
-
 ⚠️ Important Security Notes
 
-https://img.shields.io/badge/🔒_Never_Share_Discord_Token-Personal_Use_Only-FF4444?style=for-the-badge
-https://img.shields.io/badge/🚀_Use_Responsibly-Respect_Rate_Limits-FF9800?style=for-the-badge
-https://img.shields.io/badge/📱_Multi_Platform_Support-Windows_macOS_Linux_Termux_Cloud-2196F3?style=for-the-badge
-https://img.shields.io/badge/🔄_Keep_Updated-Latest_Version_Security-4CAF50?style=for-the-badge
-https://img.shields.io/badge/📊_Monitor_Usage-Avoid_API_Limits-607D8B?style=for-the-badge
-
-<br>
+· 🔒 Never share your Discord token with anyone
+· 🚀 Use responsibly and respect Discord's rate limits
+· 📱 Supports multiple platforms: Windows, macOS, Linux, Termux & Cloud
+· 🔄 Keep updated to latest version for security patches
+· 📊 Monitor usage to avoid hitting API limits
 
 🎯 Recommended Usage
 
-https://img.shields.io/badge/👤_Personal_Profile_Customization-00C851?style=for-the-badge
-https://img.shields.io/badge/💻_Developer_Testing_Environments-2196F3?style=for-the-badge
-https://img.shields.io/badge/🎓_Educational_Projects-9C27B0?style=for-the-badge
-https://img.shields.io/badge/🚫_Non_Commercial_Applications-FF4444?style=for-the-badge
+· Personal profile customization
+· Developer testing environments
+· Educational projects
+· Non-commercial applications
 
 <br>
 
 Made with ❤️ by Lucifer
-
-https://img.shields.io/badge/🌐_Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/💬_Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/📷_Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/🐙_GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
+<img
+src="https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
+https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
+https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -989,6 +998,6 @@ https://img.shields.io/badge/🐙_GitHub-Source_Code-181717?style=for-the-badge&
 
 https://api.star-history.com/svg?repos=Lucifer05321/LuciferRTXrpcV4&type=Date
 
-https://img.shields.io/badge/⭐_Give_Star_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/⭐_Give_Star-181717?style=for-the-badge&logo=github&logoColor=white
 
 </div>
