@@ -752,24 +752,20 @@ up clientId "123456789012345678"
 
 ---
 
-🌟 Key Features
+🌟 Key Features:
 
-🚀 Instant Updates - Changes apply in 0ms/500ms/2000ms (10x faster than v4.1)
-🔧 No Button Validation - Buttons work with JSON, pipe-separated, or plain text
-🛡️ Rate Limiting - 5 commands/10s per user + 20 commands/minute global protection
-⚡ Smart Reload System - Priority-based queue for multiple updates
-🎨 Advanced RPC - Fully customizable Discord presence with rich media
-🔄 Auto Media Renewal - Automatic image updates every 12 hours
-💬 Dual Interface - Control via Discord chat or console input
-🔒 Secure Storage - configuration management
-👥 Multi-User Access - Grant command permissions to trusted users
-📊 Live System Stats - Real-time performance monitoring
-🌙 24/7 Operation - Always online with PM2 and process management
-🎯 Professional UI - Clean, modern interface with status indicators
-🌐 Multi-Platform Support - Windows, macOS, Linux, Termux, Cloud platforms
-🎮 16 Powerful Commands - Complete control over RPC customization
-🛠️ Smart Error Handling - Automatic recovery from connection issues
-
+· ⚡ 10x Faster
+· 🎨 Custom Rich Presence
+· 🔧 JSON/Text Input
+· 🛡️ Rate Limited
+· 🔄 Auto Image Refresh
+· 💬 Chat & Console
+· 👥 Multi-User Access
+· 📊 Live Statistics
+· 🌙 24/7 Online
+· 🎯 Clean Interface
+· 🌐 Cross-Platform
+· 🛠️ Auto Recovery
 
 ---
 
@@ -885,24 +881,24 @@ pm2 start npm --name "lucifer-rpc" -- start -i max
 <summary><kbd>📞 Contact & Community Support</kbd></summary>
 
 <div align="center">
-
+    
 🔗 Official Links & Resources
 
-https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white
-https://img.shields.io/badge/Discord-Community_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white
-https://img.shields.io/badge/Instagram-Developer_Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white
+· Website: https://lucifer-nukers.netlify.app/
+· Discord : https://discord.gg/NwqwbyQvZZ
+· Instagram: https://www.instagram.com/mr_lucifer841
+· GitHub: https://github.com/Lucifer05321/
 
 📥 Download Links
 
-https://img.shields.io/badge/Termux-Android_App-00B0FF?style=for-the-badge&logo=android&logoColor=white
-https://img.shields.io/badge/Node.js-Runtime_18.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
-https://img.shields.io/badge/Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white
-
+· Termux: https://f-droid.org/repo/com.termux_1022.apk
+· Node.js: https://nodejs.org/en/download
+· discord-user-token-extractor: https://chromewebstore.google.com/detail/discord-get-user-token/accgjfooejbpdchkfpngkjjdekkcbnfd?pli=99999
 🐛 Bug Reports & Feature Requests
 
-https://img.shields.io/badge/GitHub-Report_Issues-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/Discord-Get_Support-5865F2?style=for-the-badge&logo=discord&logoColor=white
+· GitHub Issues: https://github.com/Lucifer05321/LuciferRTXrpcV4/issues
+· Discord Support: https://discord.gg/NwqwbyQvZZ
+
 
 </div>
 
