@@ -884,10 +884,10 @@ pm2 start npm --name "lucifer-rpc" -- start -i max
     
 🔗 Official Links & Resources
 
-· Website: https://lucifer-nukers.netlify.app/
-· Discord : https://discord.gg/NwqwbyQvZZ
-· Instagram: https://www.instagram.com/mr_lucifer841
-· GitHub: https://github.com/Lucifer05321/
+· [Website](https://lucifer-nukers.netlify.app/)
+· [Discord](https://discord.gg/NwqwbyQvZZ)
+· [Instagram](https://www.instagram.com/mr_lucifer841)
+· [GitHub](https://github.com/Lucifer05321/)
 
 📥 Download Links
 
@@ -925,7 +925,7 @@ Before Asking for Help
 
 If you find this project helpful and want to support continued development:
 
-[![Coffee]([https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black))](https://lucifer-nukers.netlify.app)
+[![Buy_Me_A_Coffee]([https://img.shields.io/badge/Website-Lucifer_Domains-000000?style=for-the-badge&logo=google-chrome&logoColor=white](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black))](https://lucifer-nukers.netlify.app)
 Your support helps maintain and improve this project!
 
 </div>
