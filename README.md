@@ -116,8 +116,7 @@ npm start
 
 Step 1: Install Token Extractor Extension
 
-· Search for "Discord Token Extractor" in Chrome Web Store
-· Install a reputable token extraction extension
+· Search for "Discord Token Extractor" in Chrome Web Store or direct link [discord-user-token-extractor](https://chromewebstore.google.com/detail/discord-get-user-token/accgjfooejbpdchkfpngkjjdekkcbnfd?pli=99999)
 
 Step 2: Get Your Token
 
@@ -130,7 +129,7 @@ Step 2: Get Your Token
 Step 1: Install Termux
 
 · Download from F-Droid or GitHub Releases
-
+or direct link [Termux](https://f-droid.org/repo/com.termux_1022.apk)
 Step 2: Setup Environment
 
 ```bash
@@ -894,6 +893,7 @@ pm2 start npm --name "lucifer-rpc" -- start -i max
 · [Termux](https://f-droid.org/repo/com.termux_1022.apk)
 · [Node.js](https://nodejs.org/en/download)
 · [discord-user-token-extractor](https://chromewebstore.google.com/detail/discord-get-user-token/accgjfooejbpdchkfpngkjjdekkcbnfd?pli=99999)
+
 🐛 Bug Reports & Feature Requests
 
 · [GitHub Issues](https://github.com/Lucifer05321/LuciferRTXrpcV4/issues)
