@@ -394,7 +394,7 @@ src="https://img.shields.io/badge/📱_Termux_Setup-00B0FF?style=for-the-badge&l
 Step 1: Install Termux
 
 · Download from F-Droid or GitHub Releases
-
+or direct [Termux](https://f-droid.org/repo/com.termux_1022.apk)
 Step 2: Complete Setup Commands
 
 ```bash
@@ -891,13 +891,13 @@ pm2 start npm --name "lucifer-rpc" -- start -i max
 
 📥 Download Links
 
-· Termux: https://f-droid.org/repo/com.termux_1022.apk
-· Node.js: https://nodejs.org/en/download
-· discord-user-token-extractor: https://chromewebstore.google.com/detail/discord-get-user-token/accgjfooejbpdchkfpngkjjdekkcbnfd?pli=99999
+· [Termux](https://f-droid.org/repo/com.termux_1022.apk)
+· [Node.js](https://nodejs.org/en/download)
+· [discord-user-token-extractor](https://chromewebstore.google.com/detail/discord-get-user-token/accgjfooejbpdchkfpngkjjdekkcbnfd?pli=99999)
 🐛 Bug Reports & Feature Requests
 
-· GitHub Issues: https://github.com/Lucifer05321/LuciferRTXrpcV4/issues
-· Discord Support: https://discord.gg/NwqwbyQvZZ
+· [GitHub Issues](https://github.com/Lucifer05321/LuciferRTXrpcV4/issues)
+· [direct Support](https://discord.gg/NwqwbyQvZZ)
 
 
 </div>
@@ -936,7 +936,7 @@ Your support helps maintain and improve this project!
 
 📄 License & Disclaimer
 
-License: MIT License - See LICENSE file for complete details.
+License:- See LICENSE file for complete details.
 
 Disclaimer: This tool is developed for educational and personal use purposes only. Users are solely responsible for complying with Discord's Terms of Service and Developer Policy. The developers are not responsible for any misuse or damages caused by this software.
 
